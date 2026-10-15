@@ -1,0 +1,463 @@
+{
+  "release": "library-v1",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v1/",
+  "categories": {
+    "tavern": {
+      "ru": "Таверна",
+      "en": "Tavern"
+    },
+    "weather": {
+      "ru": "Погода",
+      "en": "Weather"
+    },
+    "nature": {
+      "ru": "Природа",
+      "en": "Nature"
+    },
+    "dungeon": {
+      "ru": "Подземелье",
+      "en": "Dungeon"
+    },
+    "city": {
+      "ru": "Город",
+      "en": "Town"
+    },
+    "battle": {
+      "ru": "Битва",
+      "en": "Battle"
+    },
+    "creatures": {
+      "ru": "Существа",
+      "en": "Creatures"
+    },
+    "magic": {
+      "ru": "Магия",
+      "en": "Magic"
+    },
+    "travel": {
+      "ru": "Путешествие",
+      "en": "Travel"
+    }
+  },
+  "sounds": [
+    {
+      "id": "tavern-ambience",
+      "freesound": 326313,
+      "category": "tavern",
+      "loop": false,
+      "name": {
+        "ru": "Таверна: гомон и смех",
+        "en": "Tavern chatter and laughter"
+      },
+      "tags": [
+        "inn",
+        "crowd",
+        "people",
+        "таверна",
+        "трактир",
+        "толпа"
+      ]
+    },
+    {
+      "id": "tavern-music",
+      "freesound": 623427,
+      "category": "tavern",
+      "loop": false,
+      "name": {
+        "ru": "Средневековая музыка",
+        "en": "Medieval music"
+      },
+      "tags": [
+        "music",
+        "bard",
+        "lute",
+        "музыка",
+        "бард"
+      ]
+    },
+    {
+      "id": "medieval-guitar-loop",
+      "freesound": 399034,
+      "category": "tavern",
+      "loop": true,
+      "name": {
+        "ru": "Средневековый наигрыш (петля)",
+        "en": "Medieval guitar loop"
+      },
+      "tags": [
+        "music",
+        "bard",
+        "loop",
+        "музыка",
+        "бард"
+      ]
+    },
+    {
+      "id": "rain-window",
+      "freesound": 243781,
+      "category": "weather",
+      "loop": false,
+      "name": {
+        "ru": "Дождь по окну",
+        "en": "Rain on a window"
+      },
+      "tags": [
+        "rain",
+        "indoor",
+        "дождь"
+      ]
+    },
+    {
+      "id": "heavy-rain",
+      "freesound": 666624,
+      "category": "weather",
+      "loop": false,
+      "name": {
+        "ru": "Ливень",
+        "en": "Heavy rain"
+      },
+      "tags": [
+        "rain",
+        "storm",
+        "дождь",
+        "буря"
+      ]
+    },
+    {
+      "id": "thunderstorm",
+      "freesound": 324588,
+      "category": "weather",
+      "loop": false,
+      "name": {
+        "ru": "Гроза: дождь и гром",
+        "en": "Thunderstorm"
+      },
+      "tags": [
+        "rain",
+        "thunder",
+        "storm",
+        "гром",
+        "буря"
+      ]
+    },
+    {
+      "id": "thunder-strike",
+      "freesound": 652690,
+      "category": "weather",
+      "loop": false,
+      "name": {
+        "ru": "Удар грома",
+        "en": "Thunder strike"
+      },
+      "tags": [
+        "thunder",
+        "lightning",
+        "sfx",
+        "гром",
+        "молния"
+      ]
+    },
+    {
+      "id": "howling-wind",
+      "freesound": 117611,
+      "category": "weather",
+      "loop": false,
+      "name": {
+        "ru": "Завывание ветра",
+        "en": "Howling wind"
+      },
+      "tags": [
+        "wind",
+        "blizzard",
+        "mountain",
+        "ветер",
+        "вьюга"
+      ]
+    },
+    {
+      "id": "forest",
+      "freesound": 564436,
+      "category": "nature",
+      "loop": false,
+      "name": {
+        "ru": "Лес днём",
+        "en": "Forest ambience"
+      },
+      "tags": [
+        "forest",
+        "birds",
+        "woods",
+        "лес",
+        "птицы"
+      ]
+    },
+    {
+      "id": "river",
+      "freesound": 726522,
+      "category": "nature",
+      "loop": false,
+      "name": {
+        "ru": "Горный ручей",
+        "en": "Rushing stream"
+      },
+      "tags": [
+        "water",
+        "river",
+        "stream",
+        "вода",
+        "река",
+        "ручей"
+      ]
+    },
+    {
+      "id": "sea-waves",
+      "freesound": 549334,
+      "category": "nature",
+      "loop": false,
+      "name": {
+        "ru": "Морской прибой",
+        "en": "Ocean waves"
+      },
+      "tags": [
+        "sea",
+        "ocean",
+        "coast",
+        "море",
+        "берег"
+      ]
+    },
+    {
+      "id": "night-crickets",
+      "freesound": 522299,
+      "category": "nature",
+      "loop": false,
+      "name": {
+        "ru": "Ночь: сверчки",
+        "en": "Crickets at night"
+      },
+      "tags": [
+        "night",
+        "camp",
+        "ночь",
+        "лагерь"
+      ]
+    },
+    {
+      "id": "campfire",
+      "freesound": 62487,
+      "category": "nature",
+      "loop": false,
+      "name": {
+        "ru": "Костёр",
+        "en": "Campfire"
+      },
+      "tags": [
+        "fire",
+        "camp",
+        "огонь",
+        "лагерь",
+        "привал"
+      ]
+    },
+    {
+      "id": "swamp",
+      "freesound": 547690,
+      "category": "nature",
+      "loop": false,
+      "name": {
+        "ru": "Болото",
+        "en": "Swamp"
+      },
+      "tags": [
+        "swamp",
+        "frogs",
+        "marsh",
+        "топь",
+        "лягушки"
+      ]
+    },
+    {
+      "id": "cave-drips",
+      "freesound": 177958,
+      "category": "dungeon",
+      "loop": false,
+      "name": {
+        "ru": "Пещера: капли воды",
+        "en": "Dripping cave"
+      },
+      "tags": [
+        "cave",
+        "water",
+        "underground",
+        "пещера",
+        "капли"
+      ]
+    },
+    {
+      "id": "dungeon-air",
+      "freesound": 530161,
+      "category": "dungeon",
+      "loop": false,
+      "name": {
+        "ru": "Гул подземелья",
+        "en": "Dungeon air"
+      },
+      "tags": [
+        "dungeon",
+        "dark",
+        "drone",
+        "подземелье",
+        "мрак"
+      ]
+    },
+    {
+      "id": "creaking-door",
+      "freesound": 125957,
+      "category": "dungeon",
+      "loop": false,
+      "name": {
+        "ru": "Скрип двери",
+        "en": "Creaking door"
+      },
+      "tags": [
+        "door",
+        "sfx",
+        "дверь"
+      ]
+    },
+    {
+      "id": "medieval-village",
+      "freesound": 578072,
+      "category": "city",
+      "loop": false,
+      "name": {
+        "ru": "Средневековая деревня",
+        "en": "Medieval village"
+      },
+      "tags": [
+        "village",
+        "town",
+        "people",
+        "деревня",
+        "город"
+      ]
+    },
+    {
+      "id": "distant-battle",
+      "freesound": 823852,
+      "category": "battle",
+      "loop": false,
+      "name": {
+        "ru": "Гул далёкой битвы",
+        "en": "Distant battle"
+      },
+      "tags": [
+        "war",
+        "army",
+        "битва",
+        "война"
+      ]
+    },
+    {
+      "id": "war-drums",
+      "freesound": 209546,
+      "category": "battle",
+      "loop": false,
+      "name": {
+        "ru": "Боевые барабаны",
+        "en": "War drums"
+      },
+      "tags": [
+        "drums",
+        "army",
+        "march",
+        "барабаны",
+        "армия"
+      ]
+    },
+    {
+      "id": "sword-clash",
+      "freesound": 518992,
+      "category": "battle",
+      "loop": false,
+      "name": {
+        "ru": "Звон мечей",
+        "en": "Sword clash"
+      },
+      "tags": [
+        "sword",
+        "fight",
+        "sfx",
+        "меч",
+        "бой"
+      ]
+    },
+    {
+      "id": "horse-gallop",
+      "freesound": 274898,
+      "category": "travel",
+      "loop": true,
+      "name": {
+        "ru": "Галоп (петля)",
+        "en": "Galloping horse (loop)"
+      },
+      "tags": [
+        "horse",
+        "ride",
+        "chase",
+        "лошадь",
+        "погоня"
+      ]
+    },
+    {
+      "id": "wolves",
+      "freesound": 158780,
+      "category": "creatures",
+      "loop": false,
+      "name": {
+        "ru": "Вой волков",
+        "en": "Howling wolves"
+      },
+      "tags": [
+        "wolf",
+        "night",
+        "волк",
+        "ночь"
+      ]
+    },
+    {
+      "id": "monster-roar",
+      "freesound": 489901,
+      "category": "creatures",
+      "loop": false,
+      "name": {
+        "ru": "Рёв чудовища",
+        "en": "Monster roar"
+      },
+      "tags": [
+        "monster",
+        "beast",
+        "dragon",
+        "sfx",
+        "чудовище",
+        "дракон"
+      ]
+    },
+    {
+      "id": "magic-spell",
+      "freesound": 442774,
+      "category": "magic",
+      "loop": false,
+      "name": {
+        "ru": "Заклинание",
+        "en": "Magic spell"
+      },
+      "tags": [
+        "spell",
+        "sfx",
+        "заклинание",
+        "чары"
+      ]
+    }
+  ]
+}

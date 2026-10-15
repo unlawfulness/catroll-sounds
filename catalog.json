@@ -1,0 +1,714 @@
+{
+  "schema": 1,
+  "release": "library-v1",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v1/",
+  "categories": {
+    "tavern": {
+      "ru": "Таверна",
+      "en": "Tavern"
+    },
+    "weather": {
+      "ru": "Погода",
+      "en": "Weather"
+    },
+    "nature": {
+      "ru": "Природа",
+      "en": "Nature"
+    },
+    "dungeon": {
+      "ru": "Подземелье",
+      "en": "Dungeon"
+    },
+    "city": {
+      "ru": "Город",
+      "en": "Town"
+    },
+    "battle": {
+      "ru": "Битва",
+      "en": "Battle"
+    },
+    "creatures": {
+      "ru": "Существа",
+      "en": "Creatures"
+    },
+    "magic": {
+      "ru": "Магия",
+      "en": "Magic"
+    },
+    "travel": {
+      "ru": "Путешествие",
+      "en": "Travel"
+    }
+  },
+  "sounds": [
+    {
+      "id": "tavern-ambience",
+      "name": {
+        "ru": "Таверна: гомон и смех",
+        "en": "Tavern chatter and laughter"
+      },
+      "category": "tavern",
+      "tags": [
+        "inn",
+        "crowd",
+        "people",
+        "таверна",
+        "трактир",
+        "толпа"
+      ],
+      "duration": 37.5,
+      "size": 776786,
+      "format": "ogg",
+      "loop": false,
+      "file": "tavern-ambience.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "ivolipa",
+        "title": "Tavern_Ambience_Inside_Laughter.WAV",
+        "url": "https://freesound.org/s/326313/"
+      }
+    },
+    {
+      "id": "tavern-music",
+      "name": {
+        "ru": "Средневековая музыка",
+        "en": "Medieval music"
+      },
+      "category": "tavern",
+      "tags": [
+        "music",
+        "bard",
+        "lute",
+        "музыка",
+        "бард"
+      ],
+      "duration": 81.4,
+      "size": 1535142,
+      "format": "ogg",
+      "loop": false,
+      "file": "tavern-music.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "ZHRØ",
+        "title": "Medieval various music.mp3",
+        "url": "https://freesound.org/s/623427/"
+      }
+    },
+    {
+      "id": "medieval-guitar-loop",
+      "name": {
+        "ru": "Средневековый наигрыш (петля)",
+        "en": "Medieval guitar loop"
+      },
+      "category": "tavern",
+      "tags": [
+        "music",
+        "bard",
+        "loop",
+        "музыка",
+        "бард"
+      ],
+      "duration": 47.5,
+      "size": 837222,
+      "format": "ogg",
+      "loop": true,
+      "file": "medieval-guitar-loop.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "User391915396",
+        "title": "\"Medieval\" guitar loop",
+        "url": "https://freesound.org/s/399034/"
+      }
+    },
+    {
+      "id": "rain-window",
+      "name": {
+        "ru": "Дождь по окну",
+        "en": "Rain on a window"
+      },
+      "category": "weather",
+      "tags": [
+        "rain",
+        "indoor",
+        "дождь"
+      ],
+      "duration": 65.0,
+      "size": 1974906,
+      "format": "ogg",
+      "loop": false,
+      "file": "rain-window.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "bastipictures",
+        "title": "rain against window 2",
+        "url": "https://freesound.org/s/243781/"
+      }
+    },
+    {
+      "id": "heavy-rain",
+      "name": {
+        "ru": "Ливень",
+        "en": "Heavy rain"
+      },
+      "category": "weather",
+      "tags": [
+        "rain",
+        "storm",
+        "дождь",
+        "буря"
+      ],
+      "duration": 151.0,
+      "size": 1911262,
+      "format": "ogg",
+      "loop": false,
+      "file": "heavy-rain.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "EricsSoundschmiede",
+        "title": "Heavy Rain",
+        "url": "https://freesound.org/s/666624/"
+      }
+    },
+    {
+      "id": "thunderstorm",
+      "name": {
+        "ru": "Гроза: дождь и гром",
+        "en": "Thunderstorm"
+      },
+      "category": "weather",
+      "tags": [
+        "rain",
+        "thunder",
+        "storm",
+        "гром",
+        "буря"
+      ],
+      "duration": 87.3,
+      "size": 1870816,
+      "format": "ogg",
+      "loop": false,
+      "file": "thunderstorm.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "humanoide9000",
+        "title": "Rain and Thunders",
+        "url": "https://freesound.org/s/324588/"
+      }
+    },
+    {
+      "id": "thunder-strike",
+      "name": {
+        "ru": "Удар грома",
+        "en": "Thunder strike"
+      },
+      "category": "weather",
+      "tags": [
+        "thunder",
+        "lightning",
+        "sfx",
+        "гром",
+        "молния"
+      ],
+      "duration": 22.1,
+      "size": 294116,
+      "format": "ogg",
+      "loop": false,
+      "file": "thunder-strike.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "AyaDrevis",
+        "title": "Thunder strike",
+        "url": "https://freesound.org/s/652690/"
+      }
+    },
+    {
+      "id": "howling-wind",
+      "name": {
+        "ru": "Завывание ветра",
+        "en": "Howling wind"
+      },
+      "category": "weather",
+      "tags": [
+        "wind",
+        "blizzard",
+        "mountain",
+        "ветер",
+        "вьюга"
+      ],
+      "duration": 36.5,
+      "size": 877558,
+      "format": "ogg",
+      "loop": false,
+      "file": "howling-wind.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "swiftoid",
+        "title": "wind_howl2_stereo.wav",
+        "url": "https://freesound.org/s/117611/"
+      }
+    },
+    {
+      "id": "forest",
+      "name": {
+        "ru": "Лес днём",
+        "en": "Forest ambience"
+      },
+      "category": "nature",
+      "tags": [
+        "forest",
+        "birds",
+        "woods",
+        "лес",
+        "птицы"
+      ],
+      "duration": 181.2,
+      "size": 4054689,
+      "format": "ogg",
+      "loop": false,
+      "file": "forest.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Fester993",
+        "title": "Forest Ambience 1.wav",
+        "url": "https://freesound.org/s/564436/"
+      }
+    },
+    {
+      "id": "river",
+      "name": {
+        "ru": "Горный ручей",
+        "en": "Rushing stream"
+      },
+      "category": "nature",
+      "tags": [
+        "water",
+        "river",
+        "stream",
+        "вода",
+        "река",
+        "ручей"
+      ],
+      "duration": 60.8,
+      "size": 1121036,
+      "format": "ogg",
+      "loop": false,
+      "file": "river.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "RyanKingArt",
+        "title": "Rushing Stream River Water",
+        "url": "https://freesound.org/s/726522/"
+      }
+    },
+    {
+      "id": "sea-waves",
+      "name": {
+        "ru": "Морской прибой",
+        "en": "Ocean waves"
+      },
+      "category": "nature",
+      "tags": [
+        "sea",
+        "ocean",
+        "coast",
+        "море",
+        "берег"
+      ],
+      "duration": 120.9,
+      "size": 2054563,
+      "format": "ogg",
+      "loop": false,
+      "file": "sea-waves.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "kapilkant",
+        "title": "Soft ocean waves sounds",
+        "url": "https://freesound.org/s/549334/"
+      }
+    },
+    {
+      "id": "night-crickets",
+      "name": {
+        "ru": "Ночь: сверчки",
+        "en": "Crickets at night"
+      },
+      "category": "nature",
+      "tags": [
+        "night",
+        "camp",
+        "ночь",
+        "лагерь"
+      ],
+      "duration": 222.6,
+      "size": 5064868,
+      "format": "ogg",
+      "loop": false,
+      "file": "night-crickets.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Defelozedd94",
+        "title": "Crickets At Night - Raw sound",
+        "url": "https://freesound.org/s/522299/"
+      }
+    },
+    {
+      "id": "campfire",
+      "name": {
+        "ru": "Костёр",
+        "en": "Campfire"
+      },
+      "category": "nature",
+      "tags": [
+        "fire",
+        "camp",
+        "огонь",
+        "лагерь",
+        "привал"
+      ],
+      "duration": 81.8,
+      "size": 1787227,
+      "format": "ogg",
+      "loop": false,
+      "file": "campfire.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "moxobna",
+        "title": "1103campfire1.wav",
+        "url": "https://freesound.org/s/62487/"
+      }
+    },
+    {
+      "id": "swamp",
+      "name": {
+        "ru": "Болото",
+        "en": "Swamp"
+      },
+      "category": "nature",
+      "tags": [
+        "swamp",
+        "frogs",
+        "marsh",
+        "топь",
+        "лягушки"
+      ],
+      "duration": 67.4,
+      "size": 1094915,
+      "format": "ogg",
+      "loop": false,
+      "file": "swamp.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "RyanKingArt",
+        "title": "Swamp Ambience.mp3",
+        "url": "https://freesound.org/s/547690/"
+      }
+    },
+    {
+      "id": "cave-drips",
+      "name": {
+        "ru": "Пещера: капли воды",
+        "en": "Dripping cave"
+      },
+      "category": "dungeon",
+      "tags": [
+        "cave",
+        "water",
+        "underground",
+        "пещера",
+        "капли"
+      ],
+      "duration": 89.8,
+      "size": 1907412,
+      "format": "ogg",
+      "loop": false,
+      "file": "cave-drips.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Sclolex",
+        "title": "Water Dripping in Cave.wav",
+        "url": "https://freesound.org/s/177958/"
+      }
+    },
+    {
+      "id": "dungeon-air",
+      "name": {
+        "ru": "Гул подземелья",
+        "en": "Dungeon air"
+      },
+      "category": "dungeon",
+      "tags": [
+        "dungeon",
+        "dark",
+        "drone",
+        "подземелье",
+        "мрак"
+      ],
+      "duration": 151.6,
+      "size": 2740623,
+      "format": "ogg",
+      "loop": false,
+      "file": "dungeon-air.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Flamiffer",
+        "title": "Dungeon Air",
+        "url": "https://freesound.org/s/530161/"
+      }
+    },
+    {
+      "id": "creaking-door",
+      "name": {
+        "ru": "Скрип двери",
+        "en": "Creaking door"
+      },
+      "category": "dungeon",
+      "tags": [
+        "door",
+        "sfx",
+        "дверь"
+      ],
+      "duration": 3.7,
+      "size": 83701,
+      "format": "ogg",
+      "loop": false,
+      "file": "creaking-door.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Ryding",
+        "title": "Opening a creaking door",
+        "url": "https://freesound.org/s/125957/"
+      }
+    },
+    {
+      "id": "medieval-village",
+      "name": {
+        "ru": "Средневековая деревня",
+        "en": "Medieval village"
+      },
+      "category": "city",
+      "tags": [
+        "village",
+        "town",
+        "people",
+        "деревня",
+        "город"
+      ],
+      "duration": 40.4,
+      "size": 1007435,
+      "format": "ogg",
+      "loop": false,
+      "file": "medieval-village.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "ramonmineiro",
+        "title": "medieval_village_atmosphere.wav",
+        "url": "https://freesound.org/s/578072/"
+      }
+    },
+    {
+      "id": "distant-battle",
+      "name": {
+        "ru": "Гул далёкой битвы",
+        "en": "Distant battle"
+      },
+      "category": "battle",
+      "tags": [
+        "war",
+        "army",
+        "битва",
+        "война"
+      ],
+      "duration": 142.6,
+      "size": 3356612,
+      "format": "ogg",
+      "loop": false,
+      "file": "distant-battle.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Jim-Bretherick",
+        "title": "(Distant)rumbling battle1",
+        "url": "https://freesound.org/s/823852/"
+      }
+    },
+    {
+      "id": "war-drums",
+      "name": {
+        "ru": "Боевые барабаны",
+        "en": "War drums"
+      },
+      "category": "battle",
+      "tags": [
+        "drums",
+        "army",
+        "march",
+        "барабаны",
+        "армия"
+      ],
+      "duration": 15.0,
+      "size": 299169,
+      "format": "ogg",
+      "loop": false,
+      "file": "war-drums.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Sclolex",
+        "title": "warriordrums.wav",
+        "url": "https://freesound.org/s/209546/"
+      }
+    },
+    {
+      "id": "sword-clash",
+      "name": {
+        "ru": "Звон мечей",
+        "en": "Sword clash"
+      },
+      "category": "battle",
+      "tags": [
+        "sword",
+        "fight",
+        "sfx",
+        "меч",
+        "бой"
+      ],
+      "duration": 6.6,
+      "size": 114681,
+      "format": "ogg",
+      "loop": false,
+      "file": "sword-clash.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Amaiguri",
+        "title": "SwordClash.wav",
+        "url": "https://freesound.org/s/518992/"
+      }
+    },
+    {
+      "id": "horse-gallop",
+      "name": {
+        "ru": "Галоп (петля)",
+        "en": "Galloping horse (loop)"
+      },
+      "category": "travel",
+      "tags": [
+        "horse",
+        "ride",
+        "chase",
+        "лошадь",
+        "погоня"
+      ],
+      "duration": 39.4,
+      "size": 465291,
+      "format": "ogg",
+      "loop": true,
+      "file": "horse-gallop.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Podsburgh",
+        "title": "Maxheadroom's Galloping Horse (39 sec. loop)",
+        "url": "https://freesound.org/s/274898/"
+      }
+    },
+    {
+      "id": "wolves",
+      "name": {
+        "ru": "Вой волков",
+        "en": "Howling wolves"
+      },
+      "category": "creatures",
+      "tags": [
+        "wolf",
+        "night",
+        "волк",
+        "ночь"
+      ],
+      "duration": 33.3,
+      "size": 607530,
+      "format": "ogg",
+      "loop": false,
+      "file": "wolves.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Paresh",
+        "title": "wolves.wav",
+        "url": "https://freesound.org/s/158780/"
+      }
+    },
+    {
+      "id": "monster-roar",
+      "name": {
+        "ru": "Рёв чудовища",
+        "en": "Monster roar"
+      },
+      "category": "creatures",
+      "tags": [
+        "monster",
+        "beast",
+        "dragon",
+        "sfx",
+        "чудовище",
+        "дракон"
+      ],
+      "duration": 2.8,
+      "size": 29300,
+      "format": "ogg",
+      "loop": false,
+      "file": "monster-roar.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "NicknameLarry",
+        "title": "Scary Monster Roar #2",
+        "url": "https://freesound.org/s/489901/"
+      }
+    },
+    {
+      "id": "magic-spell",
+      "name": {
+        "ru": "Заклинание",
+        "en": "Magic spell"
+      },
+      "category": "magic",
+      "tags": [
+        "spell",
+        "sfx",
+        "заклинание",
+        "чары"
+      ],
+      "duration": 1.6,
+      "size": 39741,
+      "format": "ogg",
+      "loop": false,
+      "file": "magic-spell.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "qubodup",
+        "title": "Magic Spell",
+        "url": "https://freesound.org/s/442774/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+release/
+tools/.pages.json
+build.log
+__pycache__/
