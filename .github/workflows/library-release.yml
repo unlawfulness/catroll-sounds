@@ -1,0 +1,33 @@
+# Выпуск библиотеки звуков: тег library-vN → релиз с файлами из tools/downloads.json.
+# Файлы скачиваются по тем же ссылкам, по которым их проверил tools/build_catalog.py (лицензия CC0),
+# и сверяются по SHA-256; аудио в истории git не хранится.
+name: Library release
+
+on:
+  push:
+    tags: ['library-v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Скачать файлы и сверить SHA-256
+        run: python tools/fetch_release.py dist
+
+      - name: Релиз
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          notes="tools/release-notes/$TAG.md"
+          [ -f "$notes" ] || notes=/dev/null
+          gh release create "$TAG" dist/* --title "Catroll Sounds $TAG" --notes-file "$notes"

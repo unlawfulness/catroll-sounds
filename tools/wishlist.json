@@ -1,0 +1,1129 @@
+{
+  "_comment": "Что искать для library-v2. min/max — длительность в секундах. Подбор: python tools/discover.py → tools/candidates.json",
+  "newCategories": {
+    "sea": {
+      "ru": "Море",
+      "en": "Sea"
+    },
+    "temple": {
+      "ru": "Храм",
+      "en": "Temple"
+    },
+    "horror": {
+      "ru": "Ужас и нежить",
+      "en": "Horror & undead"
+    },
+    "music": {
+      "ru": "Музыка",
+      "en": "Music"
+    }
+  },
+  "sounds": [
+    {
+      "id": "clinking-mugs",
+      "category": "tavern",
+      "q": "beer mugs clink cheers",
+      "min": 1,
+      "max": 20,
+      "ru": "Звон кружек",
+      "en": "Clinking mugs",
+      "tags": [
+        "beer",
+        "cheers",
+        "кружки"
+      ]
+    },
+    {
+      "id": "bard-lute",
+      "category": "tavern",
+      "q": "lute",
+      "min": 8,
+      "max": 240,
+      "ru": "Лютня барда",
+      "en": "Bard's lute",
+      "tags": [
+        "lute",
+        "bard",
+        "лютня",
+        "бард"
+      ]
+    },
+    {
+      "id": "coin-pouch",
+      "category": "tavern",
+      "q": "coins pouch",
+      "min": 0.5,
+      "max": 10,
+      "ru": "Кошель с монетами",
+      "en": "Coin pouch",
+      "tags": [
+        "coins",
+        "gold",
+        "монеты",
+        "золото"
+      ]
+    },
+    {
+      "id": "dice-roll",
+      "category": "tavern",
+      "q": "dice roll",
+      "min": 0.3,
+      "max": 6,
+      "ru": "Бросок кубиков",
+      "en": "Dice roll",
+      "tags": [
+        "dice",
+        "кубики"
+      ]
+    },
+    {
+      "id": "shop-bell",
+      "category": "tavern",
+      "q": "shop door bell",
+      "min": 0.5,
+      "max": 10,
+      "ru": "Колокольчик лавки",
+      "en": "Shop door bell",
+      "tags": [
+        "shop",
+        "bell",
+        "лавка"
+      ]
+    },
+    {
+      "id": "blacksmith",
+      "category": "city",
+      "q": "blacksmith anvil",
+      "min": 10,
+      "max": 900,
+      "ru": "Кузница",
+      "en": "Blacksmith's forge",
+      "tags": [
+        "smith",
+        "anvil",
+        "кузнец"
+      ]
+    },
+    {
+      "id": "church-bells",
+      "category": "city",
+      "q": "church bells",
+      "min": 10,
+      "max": 240,
+      "ru": "Колокола",
+      "en": "Church bells",
+      "tags": [
+        "bells",
+        "колокола"
+      ]
+    },
+    {
+      "id": "cart-cobblestone",
+      "category": "city",
+      "q": "horse carriage cobblestone",
+      "min": 8,
+      "max": 300,
+      "ru": "Повозка по мостовой",
+      "en": "Cart on cobblestones",
+      "tags": [
+        "carriage",
+        "horse",
+        "повозка"
+      ]
+    },
+    {
+      "id": "crowd-cheering",
+      "category": "city",
+      "q": "crowd cheering",
+      "min": 3,
+      "max": 60,
+      "ru": "Ликование толпы",
+      "en": "Crowd cheering",
+      "tags": [
+        "cheer",
+        "crowd",
+        "толпа"
+      ]
+    },
+    {
+      "id": "marching-guards",
+      "category": "city",
+      "q": "army marching",
+      "min": 5,
+      "max": 180,
+      "ru": "Марш стражи",
+      "en": "Marching guards",
+      "tags": [
+        "march",
+        "soldiers",
+        "стража"
+      ],
+      "exclude": [
+        429589
+      ]
+    },
+    {
+      "id": "fountain",
+      "category": "city",
+      "q": "fountain water",
+      "min": 20,
+      "max": 900,
+      "ru": "Фонтан",
+      "en": "Fountain",
+      "tags": [
+        "water",
+        "фонтан"
+      ]
+    },
+    {
+      "id": "ship-creaking",
+      "category": "sea",
+      "q": "wooden ship creaking",
+      "min": 10,
+      "max": 900,
+      "ru": "Скрип корабля",
+      "en": "Creaking ship",
+      "tags": [
+        "ship",
+        "boat",
+        "корабль"
+      ]
+    },
+    {
+      "id": "harbor-gulls",
+      "category": "sea",
+      "q": "harbor seagulls",
+      "min": 20,
+      "max": 900,
+      "ru": "Порт и чайки",
+      "en": "Harbor and gulls",
+      "tags": [
+        "port",
+        "gulls",
+        "порт",
+        "чайки"
+      ]
+    },
+    {
+      "id": "sea-storm",
+      "category": "sea",
+      "q": "storm sea waves",
+      "min": 20,
+      "max": 900,
+      "ru": "Шторм в море",
+      "en": "Storm at sea",
+      "tags": [
+        "storm",
+        "шторм"
+      ]
+    },
+    {
+      "id": "underwater",
+      "category": "sea",
+      "q": "underwater bubbles ambience",
+      "min": 10,
+      "max": 600,
+      "ru": "Под водой",
+      "en": "Underwater",
+      "tags": [
+        "water",
+        "bubbles",
+        "под водой"
+      ]
+    },
+    {
+      "id": "rowing-boat",
+      "category": "sea",
+      "q": "rowing boat oars",
+      "min": 5,
+      "max": 240,
+      "ru": "Вёсла",
+      "en": "Rowing boat",
+      "tags": [
+        "oars",
+        "boat",
+        "лодка"
+      ]
+    },
+    {
+      "id": "blizzard",
+      "category": "weather",
+      "q": "blizzard snow wind",
+      "min": 20,
+      "max": 900,
+      "ru": "Метель",
+      "en": "Blizzard",
+      "tags": [
+        "snow",
+        "winter",
+        "метель",
+        "зима"
+      ]
+    },
+    {
+      "id": "rain-on-roof",
+      "category": "weather",
+      "q": "rain roof",
+      "min": 30,
+      "max": 900,
+      "ru": "Дождь по крыше",
+      "en": "Rain on a roof",
+      "tags": [
+        "rain",
+        "дождь"
+      ],
+      "exclude": [
+        132852
+      ]
+    },
+    {
+      "id": "thunder-close",
+      "category": "weather",
+      "q": "thunder close crack",
+      "min": 3,
+      "max": 40,
+      "ru": "Близкий удар грома",
+      "en": "Close thunder",
+      "tags": [
+        "thunder",
+        "гром"
+      ]
+    },
+    {
+      "id": "hail",
+      "category": "weather",
+      "q": "hail",
+      "min": 10,
+      "max": 600,
+      "ru": "Град",
+      "en": "Hail",
+      "tags": [
+        "hail",
+        "град"
+      ]
+    },
+    {
+      "id": "jungle",
+      "category": "nature",
+      "q": "jungle birds insects",
+      "min": 30,
+      "max": 900,
+      "ru": "Джунгли",
+      "en": "Jungle",
+      "tags": [
+        "jungle",
+        "birds",
+        "джунгли"
+      ]
+    },
+    {
+      "id": "mountain-wind",
+      "category": "nature",
+      "q": "mountain wind",
+      "min": 20,
+      "max": 900,
+      "ru": "Горный ветер",
+      "en": "Mountain wind",
+      "tags": [
+        "wind",
+        "mountain",
+        "горы",
+        "ветер"
+      ]
+    },
+    {
+      "id": "waterfall",
+      "category": "nature",
+      "q": "waterfall",
+      "min": 20,
+      "max": 900,
+      "ru": "Водопад",
+      "en": "Waterfall",
+      "tags": [
+        "water",
+        "водопад"
+      ]
+    },
+    {
+      "id": "owl-night",
+      "category": "nature",
+      "q": "owl night",
+      "min": 5,
+      "max": 240,
+      "ru": "Сова в ночи",
+      "en": "Owl at night",
+      "tags": [
+        "owl",
+        "night",
+        "сова",
+        "ночь"
+      ]
+    },
+    {
+      "id": "dawn-chorus",
+      "category": "nature",
+      "q": "forest birds morning",
+      "min": 30,
+      "max": 900,
+      "ru": "Утренние птицы",
+      "en": "Dawn chorus",
+      "tags": [
+        "birds",
+        "morning",
+        "птицы",
+        "утро"
+      ],
+      "exclude": [
+        409145
+      ]
+    },
+    {
+      "id": "desert-wind",
+      "category": "nature",
+      "q": "desert wind sand",
+      "min": 20,
+      "max": 900,
+      "ru": "Пустыня",
+      "en": "Desert wind",
+      "tags": [
+        "desert",
+        "sand",
+        "пустыня"
+      ]
+    },
+    {
+      "id": "heavy-door",
+      "category": "dungeon",
+      "q": "heavy wooden door open",
+      "min": 1,
+      "max": 15,
+      "ru": "Тяжёлая дверь",
+      "en": "Heavy door",
+      "tags": [
+        "door",
+        "дверь"
+      ]
+    },
+    {
+      "id": "chains",
+      "category": "dungeon",
+      "q": "chains rattle",
+      "min": 1,
+      "max": 30,
+      "ru": "Звон цепей",
+      "en": "Rattling chains",
+      "tags": [
+        "chains",
+        "цепи"
+      ]
+    },
+    {
+      "id": "portcullis",
+      "category": "dungeon",
+      "q": "metal gate portcullis",
+      "min": 2,
+      "max": 30,
+      "ru": "Решётка ворот",
+      "en": "Portcullis",
+      "tags": [
+        "gate",
+        "ворота"
+      ]
+    },
+    {
+      "id": "trap-click",
+      "category": "dungeon",
+      "q": "trap mechanism click",
+      "min": 0.2,
+      "max": 6,
+      "ru": "Щелчок ловушки",
+      "en": "Trap click",
+      "tags": [
+        "trap",
+        "ловушка"
+      ]
+    },
+    {
+      "id": "stone-slab",
+      "category": "dungeon",
+      "q": "stone slide grinding",
+      "min": 1,
+      "max": 20,
+      "ru": "Сдвиг каменной плиты",
+      "en": "Stone slab sliding",
+      "tags": [
+        "stone",
+        "secret",
+        "камень",
+        "тайник"
+      ]
+    },
+    {
+      "id": "footsteps-stone",
+      "category": "dungeon",
+      "q": "footsteps stone corridor",
+      "min": 5,
+      "max": 180,
+      "ru": "Шаги по камню",
+      "en": "Footsteps on stone",
+      "tags": [
+        "footsteps",
+        "шаги"
+      ]
+    },
+    {
+      "id": "key-lock",
+      "category": "dungeon",
+      "q": "key lock unlock",
+      "min": 0.5,
+      "max": 8,
+      "ru": "Ключ в замке",
+      "en": "Key in a lock",
+      "tags": [
+        "key",
+        "lock",
+        "ключ",
+        "замок"
+      ]
+    },
+    {
+      "id": "torch-burning",
+      "category": "dungeon",
+      "q": "torch fire burning",
+      "min": 10,
+      "max": 600,
+      "ru": "Горящий факел",
+      "en": "Burning torch",
+      "tags": [
+        "torch",
+        "fire",
+        "факел"
+      ]
+    },
+    {
+      "id": "chest-open",
+      "category": "dungeon",
+      "q": "treasure chest open",
+      "min": 1,
+      "max": 10,
+      "ru": "Сундук открывается",
+      "en": "Chest opening",
+      "tags": [
+        "chest",
+        "treasure",
+        "сундук"
+      ],
+      "exclude": [
+        647646
+      ]
+    },
+    {
+      "id": "rats",
+      "category": "dungeon",
+      "q": "rats squeaking",
+      "min": 2,
+      "max": 120,
+      "ru": "Крысы",
+      "en": "Rats",
+      "tags": [
+        "rats",
+        "крысы"
+      ]
+    },
+    {
+      "id": "sword-draw",
+      "category": "battle",
+      "q": "sword unsheathe",
+      "min": 0.3,
+      "max": 5,
+      "ru": "Обнажение меча",
+      "en": "Sword drawn",
+      "tags": [
+        "sword",
+        "меч"
+      ]
+    },
+    {
+      "id": "arrow-shot",
+      "category": "battle",
+      "q": "arrow bow shot",
+      "min": 0.3,
+      "max": 6,
+      "ru": "Выстрел из лука",
+      "en": "Arrow shot",
+      "tags": [
+        "bow",
+        "arrow",
+        "лук",
+        "стрела"
+      ]
+    },
+    {
+      "id": "shield-hit",
+      "category": "battle",
+      "q": "shield hit",
+      "min": 0.3,
+      "max": 6,
+      "ru": "Удар в щит",
+      "en": "Shield hit",
+      "tags": [
+        "shield",
+        "щит"
+      ]
+    },
+    {
+      "id": "war-horn",
+      "category": "battle",
+      "q": "viking horn",
+      "min": 2,
+      "max": 30,
+      "ru": "Боевой рог",
+      "en": "War horn",
+      "tags": [
+        "horn",
+        "рог"
+      ],
+      "exclude": [
+        152322
+      ]
+    },
+    {
+      "id": "explosion",
+      "category": "battle",
+      "q": "explosion",
+      "min": 1,
+      "max": 20,
+      "ru": "Взрыв",
+      "en": "Explosion",
+      "tags": [
+        "explosion",
+        "взрыв"
+      ]
+    },
+    {
+      "id": "battle-cry",
+      "category": "battle",
+      "q": "battle cry army charge",
+      "min": 2,
+      "max": 40,
+      "ru": "Боевой клич",
+      "en": "Battle cry",
+      "tags": [
+        "army",
+        "charge",
+        "клич"
+      ]
+    },
+    {
+      "id": "dragon-roar",
+      "category": "creatures",
+      "q": "dragon roar",
+      "min": 1,
+      "max": 20,
+      "ru": "Рёв дракона",
+      "en": "Dragon roar",
+      "tags": [
+        "dragon",
+        "дракон"
+      ]
+    },
+    {
+      "id": "goblin-laugh",
+      "category": "creatures",
+      "q": "goblin laugh",
+      "min": 1,
+      "max": 15,
+      "ru": "Смех гоблина",
+      "en": "Goblin laugh",
+      "tags": [
+        "goblin",
+        "гоблин"
+      ]
+    },
+    {
+      "id": "wing-flaps",
+      "category": "creatures",
+      "q": "wings flapping",
+      "min": 1,
+      "max": 20,
+      "ru": "Взмахи крыльев",
+      "en": "Wing flaps",
+      "tags": [
+        "wings",
+        "крылья"
+      ]
+    },
+    {
+      "id": "crows",
+      "category": "creatures",
+      "q": "crows",
+      "min": 5,
+      "max": 180,
+      "ru": "Вороны",
+      "en": "Crows",
+      "tags": [
+        "crows",
+        "вороны"
+      ]
+    },
+    {
+      "id": "horse-neigh",
+      "category": "creatures",
+      "q": "horse neigh",
+      "min": 1,
+      "max": 10,
+      "ru": "Ржание коня",
+      "en": "Horse neigh",
+      "tags": [
+        "horse",
+        "конь"
+      ]
+    },
+    {
+      "id": "giant-footsteps",
+      "category": "creatures",
+      "q": "giant footsteps stomp",
+      "min": 2,
+      "max": 40,
+      "ru": "Шаги великана",
+      "en": "Giant footsteps",
+      "tags": [
+        "giant",
+        "великан"
+      ]
+    },
+    {
+      "id": "snake-hiss",
+      "category": "creatures",
+      "q": "snake hiss",
+      "min": 0.5,
+      "max": 10,
+      "ru": "Шипение змеи",
+      "en": "Snake hiss",
+      "tags": [
+        "snake",
+        "змея"
+      ]
+    },
+    {
+      "id": "bats",
+      "category": "creatures",
+      "q": "bats flying",
+      "min": 2,
+      "max": 90,
+      "ru": "Летучие мыши",
+      "en": "Bats",
+      "tags": [
+        "bats",
+        "летучие мыши"
+      ]
+    },
+    {
+      "id": "insect-swarm",
+      "category": "creatures",
+      "q": "insect swarm buzz",
+      "min": 5,
+      "max": 180,
+      "ru": "Рой насекомых",
+      "en": "Insect swarm",
+      "tags": [
+        "insects",
+        "swarm",
+        "рой"
+      ]
+    },
+    {
+      "id": "healing-spell",
+      "category": "magic",
+      "q": "healing spell",
+      "min": 1,
+      "max": 12,
+      "ru": "Лечебное заклинание",
+      "en": "Healing spell",
+      "tags": [
+        "heal",
+        "лечение"
+      ]
+    },
+    {
+      "id": "fireball",
+      "category": "magic",
+      "q": "fireball",
+      "min": 1,
+      "max": 12,
+      "ru": "Огненный шар",
+      "en": "Fireball",
+      "tags": [
+        "fire",
+        "огонь"
+      ]
+    },
+    {
+      "id": "teleport",
+      "category": "magic",
+      "q": "teleport",
+      "min": 0.5,
+      "max": 12,
+      "ru": "Телепорт",
+      "en": "Teleport",
+      "tags": [
+        "teleport",
+        "телепорт"
+      ]
+    },
+    {
+      "id": "magic-portal",
+      "category": "magic",
+      "q": "portal hum",
+      "min": 5,
+      "max": 240,
+      "ru": "Магический портал",
+      "en": "Magic portal",
+      "tags": [
+        "portal",
+        "портал"
+      ]
+    },
+    {
+      "id": "lightning-bolt",
+      "category": "magic",
+      "q": "electric zap",
+      "min": 0.3,
+      "max": 10,
+      "ru": "Молния",
+      "en": "Lightning bolt",
+      "tags": [
+        "lightning",
+        "молния"
+      ]
+    },
+    {
+      "id": "ice-spell",
+      "category": "magic",
+      "q": "ice freeze magic",
+      "min": 0.5,
+      "max": 12,
+      "ru": "Ледяное заклинание",
+      "en": "Ice spell",
+      "tags": [
+        "ice",
+        "лёд"
+      ]
+    },
+    {
+      "id": "magic-sparkle",
+      "category": "magic",
+      "q": "magic shimmer",
+      "min": 0.5,
+      "max": 15,
+      "ru": "Мерцание магии",
+      "en": "Magic sparkle",
+      "tags": [
+        "sparkle",
+        "искры"
+      ],
+      "exclude": [
+        511485
+      ]
+    },
+    {
+      "id": "cauldron",
+      "category": "magic",
+      "q": "cauldron bubbling",
+      "min": 10,
+      "max": 600,
+      "ru": "Котёл с зельем",
+      "en": "Bubbling cauldron",
+      "tags": [
+        "potion",
+        "зелье",
+        "котёл"
+      ]
+    },
+    {
+      "id": "page-turn",
+      "category": "magic",
+      "q": "book page turn",
+      "min": 0.5,
+      "max": 15,
+      "ru": "Перелистывание книги",
+      "en": "Turning pages",
+      "tags": [
+        "book",
+        "spellbook",
+        "книга"
+      ]
+    },
+    {
+      "id": "scroll-unroll",
+      "category": "magic",
+      "q": "paper scroll unroll",
+      "min": 0.5,
+      "max": 12,
+      "ru": "Свиток",
+      "en": "Unrolling a scroll",
+      "tags": [
+        "scroll",
+        "свиток"
+      ]
+    },
+    {
+      "id": "temple-choir",
+      "category": "temple",
+      "q": "church choir",
+      "min": 10,
+      "max": 600,
+      "ru": "Хор в храме",
+      "en": "Temple choir",
+      "tags": [
+        "choir",
+        "хор"
+      ],
+      "exclude": [
+        610532
+      ]
+    },
+    {
+      "id": "monks-chanting",
+      "category": "temple",
+      "q": "monks chant",
+      "min": 10,
+      "max": 600,
+      "ru": "Пение монахов",
+      "en": "Monks chanting",
+      "tags": [
+        "monks",
+        "chant",
+        "монахи"
+      ]
+    },
+    {
+      "id": "gong",
+      "category": "temple",
+      "q": "gong",
+      "min": 3,
+      "max": 40,
+      "ru": "Гонг",
+      "en": "Gong",
+      "tags": [
+        "gong",
+        "гонг"
+      ]
+    },
+    {
+      "id": "singing-bowl",
+      "category": "temple",
+      "q": "singing bowl",
+      "min": 5,
+      "max": 90,
+      "ru": "Поющая чаша",
+      "en": "Singing bowl",
+      "tags": [
+        "bowl",
+        "чаша"
+      ]
+    },
+    {
+      "id": "cathedral",
+      "category": "temple",
+      "q": "cathedral interior",
+      "min": 30,
+      "max": 900,
+      "ru": "Своды собора",
+      "en": "Cathedral ambience",
+      "tags": [
+        "church",
+        "собор"
+      ],
+      "exclude": [
+        434075
+      ]
+    },
+    {
+      "id": "ghost-whispers",
+      "category": "horror",
+      "q": "creepy whispers",
+      "min": 5,
+      "max": 180,
+      "ru": "Шёпот призраков",
+      "en": "Ghostly whispers",
+      "tags": [
+        "ghost",
+        "whisper",
+        "призрак",
+        "шёпот"
+      ]
+    },
+    {
+      "id": "heartbeat",
+      "category": "horror",
+      "q": "heartbeat",
+      "min": 5,
+      "max": 180,
+      "ru": "Сердцебиение",
+      "en": "Heartbeat",
+      "tags": [
+        "heart",
+        "сердце"
+      ]
+    },
+    {
+      "id": "ominous-drone",
+      "category": "horror",
+      "q": "dark ambient drone horror",
+      "min": 30,
+      "max": 900,
+      "ru": "Зловещий гул",
+      "en": "Ominous drone",
+      "tags": [
+        "drone",
+        "dark",
+        "гул"
+      ]
+    },
+    {
+      "id": "undead-groan",
+      "category": "horror",
+      "q": "zombie moan",
+      "min": 1,
+      "max": 20,
+      "ru": "Стон нежити",
+      "en": "Undead groan",
+      "tags": [
+        "zombie",
+        "undead",
+        "нежить"
+      ],
+      "exclude": [
+        463721
+      ]
+    },
+    {
+      "id": "distant-scream",
+      "category": "horror",
+      "q": "scream distant",
+      "min": 1,
+      "max": 12,
+      "ru": "Далёкий крик",
+      "en": "Distant scream",
+      "tags": [
+        "scream",
+        "крик"
+      ]
+    },
+    {
+      "id": "creaking-floor",
+      "category": "horror",
+      "q": "floor creak wood",
+      "min": 3,
+      "max": 90,
+      "ru": "Скрип половиц",
+      "en": "Creaking floorboards",
+      "tags": [
+        "floor",
+        "creak",
+        "скрип"
+      ]
+    },
+    {
+      "id": "gravel-walk",
+      "category": "travel",
+      "q": "footsteps gravel walking",
+      "min": 10,
+      "max": 240,
+      "ru": "Шаги по гравию",
+      "en": "Walking on gravel",
+      "tags": [
+        "footsteps",
+        "road",
+        "шаги",
+        "дорога"
+      ]
+    },
+    {
+      "id": "horse-trot",
+      "category": "travel",
+      "q": "horse trot",
+      "min": 5,
+      "max": 180,
+      "ru": "Рысь коня",
+      "en": "Horse trotting",
+      "tags": [
+        "horse",
+        "конь"
+      ]
+    },
+    {
+      "id": "creaking-cart",
+      "category": "travel",
+      "q": "wooden cart wheels",
+      "min": 10,
+      "max": 300,
+      "ru": "Скрип телеги",
+      "en": "Creaking cart",
+      "tags": [
+        "cart",
+        "wagon",
+        "телега"
+      ]
+    }
+  ],
+  "music": [
+    {
+      "q": "tavern",
+      "n": 3
+    },
+    {
+      "q": "town",
+      "n": 2
+    },
+    {
+      "q": "battle",
+      "n": 3
+    },
+    {
+      "q": "boss",
+      "n": 2
+    },
+    {
+      "q": "adventure",
+      "n": 3
+    },
+    {
+      "q": "dungeon",
+      "n": 2
+    },
+    {
+      "q": "forest",
+      "n": 2
+    },
+    {
+      "q": "creepy",
+      "n": 2
+    },
+    {
+      "q": "mystery",
+      "n": 2
+    },
+    {
+      "q": "sad",
+      "n": 1
+    },
+    {
+      "q": "victory",
+      "n": 1
+    },
+    {
+      "q": "pirate",
+      "n": 1
+    },
+    {
+      "q": "desert",
+      "n": 1
+    },
+    {
+      "q": "medieval",
+      "n": 2
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "release": "library-v1",
-  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v1/",
+  "release": "library-v2",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v2/",
   "categories": {
     "tavern": {
       "ru": "Таверна",
@@ -37,6 +37,18 @@
     "travel": {
       "ru": "Путешествие",
       "en": "Travel"
+    },
+    "sea": {
+      "ru": "Море",
+      "en": "Sea"
+    },
+    "temple": {
+      "ru": "Храм",
+      "en": "Temple"
+    },
+    "horror": {
+      "ru": "Ужас и нежить",
+      "en": "Horror & undead"
     }
   },
   "sounds": [
@@ -457,6 +469,985 @@
         "sfx",
         "заклинание",
         "чары"
+      ]
+    },
+    {
+      "id": "clinking-mugs",
+      "freesound": 635375,
+      "name": {
+        "ru": "Звон кружек",
+        "en": "Clinking mugs"
+      },
+      "category": "tavern",
+      "tags": [
+        "beer",
+        "cheers",
+        "кружки"
+      ]
+    },
+    {
+      "id": "bard-lute",
+      "freesound": 506266,
+      "name": {
+        "ru": "Лютня барда",
+        "en": "Bard's lute"
+      },
+      "category": "tavern",
+      "tags": [
+        "lute",
+        "bard",
+        "лютня",
+        "бард"
+      ]
+    },
+    {
+      "id": "coin-pouch",
+      "freesound": 575584,
+      "name": {
+        "ru": "Кошель с монетами",
+        "en": "Coin pouch"
+      },
+      "category": "tavern",
+      "tags": [
+        "coins",
+        "gold",
+        "монеты",
+        "золото"
+      ]
+    },
+    {
+      "id": "dice-roll",
+      "freesound": 177208,
+      "name": {
+        "ru": "Бросок кубиков",
+        "en": "Dice roll"
+      },
+      "category": "tavern",
+      "tags": [
+        "dice",
+        "кубики"
+      ]
+    },
+    {
+      "id": "shop-bell",
+      "freesound": 57743,
+      "name": {
+        "ru": "Колокольчик лавки",
+        "en": "Shop door bell"
+      },
+      "category": "tavern",
+      "tags": [
+        "shop",
+        "bell",
+        "лавка"
+      ]
+    },
+    {
+      "id": "blacksmith",
+      "freesound": 321889,
+      "name": {
+        "ru": "Кузница",
+        "en": "Blacksmith's forge"
+      },
+      "category": "city",
+      "tags": [
+        "smith",
+        "anvil",
+        "кузнец"
+      ]
+    },
+    {
+      "id": "church-bells",
+      "freesound": 56907,
+      "name": {
+        "ru": "Колокола",
+        "en": "Church bells"
+      },
+      "category": "city",
+      "tags": [
+        "bells",
+        "колокола"
+      ]
+    },
+    {
+      "id": "cart-cobblestone",
+      "freesound": 549882,
+      "name": {
+        "ru": "Повозка по мостовой",
+        "en": "Cart on cobblestones"
+      },
+      "category": "city",
+      "tags": [
+        "carriage",
+        "horse",
+        "повозка"
+      ]
+    },
+    {
+      "id": "crowd-cheering",
+      "freesound": 365132,
+      "name": {
+        "ru": "Ликование толпы",
+        "en": "Crowd cheering"
+      },
+      "category": "city",
+      "tags": [
+        "cheer",
+        "crowd",
+        "толпа"
+      ]
+    },
+    {
+      "id": "marching-guards",
+      "freesound": 240732,
+      "name": {
+        "ru": "Марш стражи",
+        "en": "Marching guards"
+      },
+      "category": "city",
+      "tags": [
+        "march",
+        "soldiers",
+        "стража"
+      ]
+    },
+    {
+      "id": "fountain",
+      "freesound": 554789,
+      "name": {
+        "ru": "Фонтан",
+        "en": "Fountain"
+      },
+      "category": "city",
+      "tags": [
+        "water",
+        "фонтан"
+      ]
+    },
+    {
+      "id": "ship-creaking",
+      "freesound": 195193,
+      "name": {
+        "ru": "Скрип корабля",
+        "en": "Creaking ship"
+      },
+      "category": "sea",
+      "tags": [
+        "ship",
+        "boat",
+        "корабль"
+      ]
+    },
+    {
+      "id": "harbor-gulls",
+      "freesound": 208074,
+      "name": {
+        "ru": "Порт и чайки",
+        "en": "Harbor and gulls"
+      },
+      "category": "sea",
+      "tags": [
+        "port",
+        "gulls",
+        "порт",
+        "чайки"
+      ]
+    },
+    {
+      "id": "sea-storm",
+      "freesound": 331435,
+      "name": {
+        "ru": "Шторм в море",
+        "en": "Storm at sea"
+      },
+      "category": "sea",
+      "tags": [
+        "storm",
+        "шторм"
+      ]
+    },
+    {
+      "id": "underwater",
+      "freesound": 393819,
+      "name": {
+        "ru": "Под водой",
+        "en": "Underwater"
+      },
+      "category": "sea",
+      "tags": [
+        "water",
+        "bubbles",
+        "под водой"
+      ]
+    },
+    {
+      "id": "rowing-boat",
+      "freesound": 588308,
+      "name": {
+        "ru": "Вёсла",
+        "en": "Rowing boat"
+      },
+      "category": "sea",
+      "tags": [
+        "oars",
+        "boat",
+        "лодка"
+      ]
+    },
+    {
+      "id": "blizzard",
+      "freesound": 117136,
+      "name": {
+        "ru": "Метель",
+        "en": "Blizzard"
+      },
+      "category": "weather",
+      "tags": [
+        "snow",
+        "winter",
+        "метель",
+        "зима"
+      ]
+    },
+    {
+      "id": "rain-on-roof",
+      "freesound": 669487,
+      "name": {
+        "ru": "Дождь по крыше",
+        "en": "Rain on a roof"
+      },
+      "category": "weather",
+      "tags": [
+        "rain",
+        "дождь"
+      ]
+    },
+    {
+      "id": "thunder-close",
+      "freesound": 840628,
+      "name": {
+        "ru": "Близкий удар грома",
+        "en": "Close thunder"
+      },
+      "category": "weather",
+      "tags": [
+        "thunder",
+        "гром"
+      ]
+    },
+    {
+      "id": "hail",
+      "freesound": 232288,
+      "name": {
+        "ru": "Град",
+        "en": "Hail"
+      },
+      "category": "weather",
+      "tags": [
+        "hail",
+        "град"
+      ]
+    },
+    {
+      "id": "jungle",
+      "freesound": 423711,
+      "name": {
+        "ru": "Джунгли",
+        "en": "Jungle"
+      },
+      "category": "nature",
+      "tags": [
+        "jungle",
+        "birds",
+        "джунгли"
+      ]
+    },
+    {
+      "id": "mountain-wind",
+      "freesound": 156414,
+      "name": {
+        "ru": "Горный ветер",
+        "en": "Mountain wind"
+      },
+      "category": "nature",
+      "tags": [
+        "wind",
+        "mountain",
+        "горы",
+        "ветер"
+      ]
+    },
+    {
+      "id": "waterfall",
+      "freesound": 565737,
+      "name": {
+        "ru": "Водопад",
+        "en": "Waterfall"
+      },
+      "category": "nature",
+      "tags": [
+        "water",
+        "водопад"
+      ]
+    },
+    {
+      "id": "owl-night",
+      "freesound": 475376,
+      "name": {
+        "ru": "Сова в ночи",
+        "en": "Owl at night"
+      },
+      "category": "nature",
+      "tags": [
+        "owl",
+        "night",
+        "сова",
+        "ночь"
+      ]
+    },
+    {
+      "id": "dawn-chorus",
+      "freesound": 462136,
+      "name": {
+        "ru": "Утренние птицы",
+        "en": "Dawn chorus"
+      },
+      "category": "nature",
+      "tags": [
+        "birds",
+        "morning",
+        "птицы",
+        "утро"
+      ]
+    },
+    {
+      "id": "desert-wind",
+      "freesound": 104320,
+      "name": {
+        "ru": "Пустыня",
+        "en": "Desert wind"
+      },
+      "category": "nature",
+      "tags": [
+        "desert",
+        "sand",
+        "пустыня"
+      ]
+    },
+    {
+      "id": "heavy-door",
+      "freesound": 107640,
+      "name": {
+        "ru": "Тяжёлая дверь",
+        "en": "Heavy door"
+      },
+      "category": "dungeon",
+      "tags": [
+        "door",
+        "дверь"
+      ]
+    },
+    {
+      "id": "chains",
+      "freesound": 387240,
+      "name": {
+        "ru": "Звон цепей",
+        "en": "Rattling chains"
+      },
+      "category": "dungeon",
+      "tags": [
+        "chains",
+        "цепи"
+      ]
+    },
+    {
+      "id": "portcullis",
+      "freesound": 336888,
+      "name": {
+        "ru": "Решётка ворот",
+        "en": "Portcullis"
+      },
+      "category": "dungeon",
+      "tags": [
+        "gate",
+        "ворота"
+      ]
+    },
+    {
+      "id": "trap-click",
+      "freesound": 752067,
+      "name": {
+        "ru": "Щелчок ловушки",
+        "en": "Trap click"
+      },
+      "category": "dungeon",
+      "tags": [
+        "trap",
+        "ловушка"
+      ]
+    },
+    {
+      "id": "stone-slab",
+      "freesound": 578491,
+      "name": {
+        "ru": "Сдвиг каменной плиты",
+        "en": "Stone slab sliding"
+      },
+      "category": "dungeon",
+      "tags": [
+        "stone",
+        "secret",
+        "камень",
+        "тайник"
+      ]
+    },
+    {
+      "id": "footsteps-stone",
+      "freesound": 233065,
+      "name": {
+        "ru": "Шаги по камню",
+        "en": "Footsteps on stone"
+      },
+      "category": "dungeon",
+      "tags": [
+        "footsteps",
+        "шаги"
+      ]
+    },
+    {
+      "id": "key-lock",
+      "freesound": 119918,
+      "name": {
+        "ru": "Ключ в замке",
+        "en": "Key in a lock"
+      },
+      "category": "dungeon",
+      "tags": [
+        "key",
+        "lock",
+        "ключ",
+        "замок"
+      ]
+    },
+    {
+      "id": "torch-burning",
+      "freesound": 387924,
+      "name": {
+        "ru": "Горящий факел",
+        "en": "Burning torch"
+      },
+      "category": "dungeon",
+      "tags": [
+        "torch",
+        "fire",
+        "факел"
+      ]
+    },
+    {
+      "id": "chest-open",
+      "freesound": 202092,
+      "name": {
+        "ru": "Сундук открывается",
+        "en": "Chest opening"
+      },
+      "category": "dungeon",
+      "tags": [
+        "chest",
+        "treasure",
+        "сундук"
+      ]
+    },
+    {
+      "id": "rats",
+      "freesound": 463789,
+      "name": {
+        "ru": "Крысы",
+        "en": "Rats"
+      },
+      "category": "dungeon",
+      "tags": [
+        "rats",
+        "крысы"
+      ]
+    },
+    {
+      "id": "sword-draw",
+      "freesound": 107589,
+      "name": {
+        "ru": "Обнажение меча",
+        "en": "Sword drawn"
+      },
+      "category": "battle",
+      "tags": [
+        "sword",
+        "меч"
+      ]
+    },
+    {
+      "id": "arrow-shot",
+      "freesound": 410751,
+      "name": {
+        "ru": "Выстрел из лука",
+        "en": "Arrow shot"
+      },
+      "category": "battle",
+      "tags": [
+        "bow",
+        "arrow",
+        "лук",
+        "стрела"
+      ]
+    },
+    {
+      "id": "shield-hit",
+      "freesound": 370203,
+      "name": {
+        "ru": "Удар в щит",
+        "en": "Shield hit"
+      },
+      "category": "battle",
+      "tags": [
+        "shield",
+        "щит"
+      ]
+    },
+    {
+      "id": "war-horn",
+      "freesound": 328541,
+      "name": {
+        "ru": "Боевой рог",
+        "en": "War horn"
+      },
+      "category": "battle",
+      "tags": [
+        "horn",
+        "рог"
+      ]
+    },
+    {
+      "id": "explosion",
+      "freesound": 366091,
+      "name": {
+        "ru": "Взрыв",
+        "en": "Explosion"
+      },
+      "category": "battle",
+      "tags": [
+        "explosion",
+        "взрыв"
+      ]
+    },
+    {
+      "id": "battle-cry",
+      "freesound": 563011,
+      "name": {
+        "ru": "Боевой клич",
+        "en": "Battle cry"
+      },
+      "category": "battle",
+      "tags": [
+        "army",
+        "charge",
+        "клич"
+      ]
+    },
+    {
+      "id": "dragon-roar",
+      "freesound": 85568,
+      "name": {
+        "ru": "Рёв дракона",
+        "en": "Dragon roar"
+      },
+      "category": "creatures",
+      "tags": [
+        "dragon",
+        "дракон"
+      ]
+    },
+    {
+      "id": "goblin-laugh",
+      "freesound": 202096,
+      "name": {
+        "ru": "Смех гоблина",
+        "en": "Goblin laugh"
+      },
+      "category": "creatures",
+      "tags": [
+        "goblin",
+        "гоблин"
+      ]
+    },
+    {
+      "id": "wing-flaps",
+      "freesound": 386706,
+      "name": {
+        "ru": "Взмахи крыльев",
+        "en": "Wing flaps"
+      },
+      "category": "creatures",
+      "tags": [
+        "wings",
+        "крылья"
+      ]
+    },
+    {
+      "id": "crows",
+      "freesound": 414320,
+      "name": {
+        "ru": "Вороны",
+        "en": "Crows"
+      },
+      "category": "creatures",
+      "tags": [
+        "crows",
+        "вороны"
+      ]
+    },
+    {
+      "id": "horse-neigh",
+      "freesound": 656661,
+      "name": {
+        "ru": "Ржание коня",
+        "en": "Horse neigh"
+      },
+      "category": "creatures",
+      "tags": [
+        "horse",
+        "конь"
+      ]
+    },
+    {
+      "id": "giant-footsteps",
+      "freesound": 588655,
+      "name": {
+        "ru": "Шаги великана",
+        "en": "Giant footsteps"
+      },
+      "category": "creatures",
+      "tags": [
+        "giant",
+        "великан"
+      ]
+    },
+    {
+      "id": "snake-hiss",
+      "freesound": 540162,
+      "name": {
+        "ru": "Шипение змеи",
+        "en": "Snake hiss"
+      },
+      "category": "creatures",
+      "tags": [
+        "snake",
+        "змея"
+      ]
+    },
+    {
+      "id": "bats",
+      "freesound": 546823,
+      "name": {
+        "ru": "Летучие мыши",
+        "en": "Bats"
+      },
+      "category": "creatures",
+      "tags": [
+        "bats",
+        "летучие мыши"
+      ]
+    },
+    {
+      "id": "insect-swarm",
+      "freesound": 164486,
+      "name": {
+        "ru": "Рой насекомых",
+        "en": "Insect swarm"
+      },
+      "category": "creatures",
+      "tags": [
+        "insects",
+        "swarm",
+        "рой"
+      ]
+    },
+    {
+      "id": "healing-spell",
+      "freesound": 562292,
+      "name": {
+        "ru": "Лечебное заклинание",
+        "en": "Healing spell"
+      },
+      "category": "magic",
+      "tags": [
+        "heal",
+        "лечение"
+      ]
+    },
+    {
+      "id": "fireball",
+      "freesound": 431174,
+      "name": {
+        "ru": "Огненный шар",
+        "en": "Fireball"
+      },
+      "category": "magic",
+      "tags": [
+        "fire",
+        "огонь"
+      ]
+    },
+    {
+      "id": "teleport",
+      "freesound": 150950,
+      "name": {
+        "ru": "Телепорт",
+        "en": "Teleport"
+      },
+      "category": "magic",
+      "tags": [
+        "teleport",
+        "телепорт"
+      ]
+    },
+    {
+      "id": "magic-portal",
+      "freesound": 670641,
+      "name": {
+        "ru": "Магический портал",
+        "en": "Magic portal"
+      },
+      "category": "magic",
+      "tags": [
+        "portal",
+        "портал"
+      ]
+    },
+    {
+      "id": "lightning-bolt",
+      "freesound": 136542,
+      "name": {
+        "ru": "Молния",
+        "en": "Lightning bolt"
+      },
+      "category": "magic",
+      "tags": [
+        "lightning",
+        "молния"
+      ]
+    },
+    {
+      "id": "ice-spell",
+      "freesound": 683180,
+      "name": {
+        "ru": "Ледяное заклинание",
+        "en": "Ice spell"
+      },
+      "category": "magic",
+      "tags": [
+        "ice",
+        "лёд"
+      ]
+    },
+    {
+      "id": "magic-sparkle",
+      "freesound": 844398,
+      "name": {
+        "ru": "Мерцание магии",
+        "en": "Magic sparkle"
+      },
+      "category": "magic",
+      "tags": [
+        "sparkle",
+        "искры"
+      ]
+    },
+    {
+      "id": "cauldron",
+      "freesound": 52762,
+      "name": {
+        "ru": "Котёл с зельем",
+        "en": "Bubbling cauldron"
+      },
+      "category": "magic",
+      "tags": [
+        "potion",
+        "зелье",
+        "котёл"
+      ]
+    },
+    {
+      "id": "page-turn",
+      "freesound": 119127,
+      "name": {
+        "ru": "Перелистывание книги",
+        "en": "Turning pages"
+      },
+      "category": "magic",
+      "tags": [
+        "book",
+        "spellbook",
+        "книга"
+      ]
+    },
+    {
+      "id": "scroll-unroll",
+      "freesound": 185051,
+      "name": {
+        "ru": "Свиток",
+        "en": "Unrolling a scroll"
+      },
+      "category": "magic",
+      "tags": [
+        "scroll",
+        "свиток"
+      ]
+    },
+    {
+      "id": "temple-choir",
+      "freesound": 503504,
+      "name": {
+        "ru": "Хор в храме",
+        "en": "Temple choir"
+      },
+      "category": "temple",
+      "tags": [
+        "choir",
+        "хор"
+      ]
+    },
+    {
+      "id": "monks-chanting",
+      "freesound": 345028,
+      "name": {
+        "ru": "Пение монахов",
+        "en": "Monks chanting"
+      },
+      "category": "temple",
+      "tags": [
+        "monks",
+        "chant",
+        "монахи"
+      ]
+    },
+    {
+      "id": "gong",
+      "freesound": 486629,
+      "name": {
+        "ru": "Гонг",
+        "en": "Gong"
+      },
+      "category": "temple",
+      "tags": [
+        "gong",
+        "гонг"
+      ]
+    },
+    {
+      "id": "singing-bowl",
+      "freesound": 202004,
+      "name": {
+        "ru": "Поющая чаша",
+        "en": "Singing bowl"
+      },
+      "category": "temple",
+      "tags": [
+        "bowl",
+        "чаша"
+      ]
+    },
+    {
+      "id": "cathedral",
+      "freesound": 811903,
+      "name": {
+        "ru": "Своды собора",
+        "en": "Cathedral ambience"
+      },
+      "category": "temple",
+      "tags": [
+        "church",
+        "собор"
+      ]
+    },
+    {
+      "id": "ghost-whispers",
+      "freesound": 316797,
+      "name": {
+        "ru": "Шёпот призраков",
+        "en": "Ghostly whispers"
+      },
+      "category": "horror",
+      "tags": [
+        "ghost",
+        "whisper",
+        "призрак",
+        "шёпот"
+      ]
+    },
+    {
+      "id": "heartbeat",
+      "freesound": 369017,
+      "name": {
+        "ru": "Сердцебиение",
+        "en": "Heartbeat"
+      },
+      "category": "horror",
+      "tags": [
+        "heart",
+        "сердце"
+      ]
+    },
+    {
+      "id": "ominous-drone",
+      "freesound": 631933,
+      "name": {
+        "ru": "Зловещий гул",
+        "en": "Ominous drone"
+      },
+      "category": "horror",
+      "tags": [
+        "drone",
+        "dark",
+        "гул"
+      ]
+    },
+    {
+      "id": "undead-groan",
+      "freesound": 426628,
+      "name": {
+        "ru": "Стон нежити",
+        "en": "Undead groan"
+      },
+      "category": "horror",
+      "tags": [
+        "zombie",
+        "undead",
+        "нежить"
+      ]
+    },
+    {
+      "id": "distant-scream",
+      "freesound": 356313,
+      "name": {
+        "ru": "Далёкий крик",
+        "en": "Distant scream"
+      },
+      "category": "horror",
+      "tags": [
+        "scream",
+        "крик"
+      ]
+    },
+    {
+      "id": "creaking-floor",
+      "freesound": 326460,
+      "name": {
+        "ru": "Скрип половиц",
+        "en": "Creaking floorboards"
+      },
+      "category": "horror",
+      "tags": [
+        "floor",
+        "creak",
+        "скрип"
       ]
     }
   ]
