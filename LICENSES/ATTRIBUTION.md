@@ -109,3 +109,53 @@ Sounds are Freesound HQ previews (Ogg Vorbis); music files are the originals fro
 | `undead-groan` | Стон нежити / Undead groan | mrh4hn | [Zombie Moan.wav](https://freesound.org/s/426628/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | `distant-scream` | Далёкий крик / Distant scream | esmayorga | [Grito-hombre.aif](https://freesound.org/s/356313/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | `creaking-floor` | Скрип половиц / Creaking floorboards | miekyj | [creaking floor OWI.wav](https://freesound.org/s/326460/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `gravel-walk` | Шаги по гравию / Walking on gravel | PotatokingXII | [Footsteps Dirt Gravel](https://freesound.org/s/352870/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `horse-trot` | Рысь коня / Horse trotting | swiftoid | [Horse Clip Clopping Downhill (stereo)](https://freesound.org/s/182504/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `creaking-cart` | Скрип телеги / Creaking cart | craigsmith | [G52-05-Ox Cart.wav](https://freesound.org/s/437078/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `pouring-ale` | Наливают эль / Pouring ale | deleted_user_7146007 | [Pouring a Beer Into a Glass](https://freesound.org/s/383865/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `crowd-laughter` | Хохот толпы / Crowd laughter | wrc4all | [laughs](https://freesound.org/s/403058/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `card-shuffle` | Тасуют карты / Shuffling cards | SomeoneCool15 | [Card shuffling.mp3](https://freesound.org/s/423767/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `table-bang` | Удар по столу / Banging on a table | filmfan87 | [hand hitting table.wav](https://freesound.org/s/108396/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `stew-boiling` | Кипит похлёбка / Boiling stew | monsterthing | [Boiling Pot of Water](https://freesound.org/s/456382/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `market-crowd` | Рыночная площадь / Market square | SamuelGremaud | [CROWD](https://freesound.org/s/545756/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `wood-chopping` | Рубка дров / Chopping wood | xkeril | [Axe chopping wood](https://freesound.org/s/753925/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `hammering-wood` | Стук молотка / Hammering wood | blukotek | [hammer v1.wav](https://freesound.org/s/337816/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `hand-saw` | Пила по дереву / Hand saw | Pagey1969 | [deeper saw wood.wav](https://freesound.org/s/566037/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `hand-bell` | Колокольчик глашатая / Crier's hand bell | WebbFilmsUK | [Hand Bell.wav](https://freesound.org/s/200318/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `sewer` | Канализация / Sewer | thedapperdan | [sewer drain.wav](https://freesound.org/s/26910/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `stone-grinding` | Скрежет камня / Grinding stone | NahuelMartinez | [Stone Slab Door Grinding - Heavy Rock Scrape (Mono)](https://freesound.org/s/844329/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `lever-pull` | Рычаг / Pulling a lever | BMacZero | [Mechanical2.wav](https://freesound.org/s/94121/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `rocks-falling` | Обвал / Rockfall | iwanPlays | [Bricks/Stones/Rocks/Gravel Falling](https://freesound.org/s/567249/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `pickaxe-mining` | Кирка в шахте / Pickaxe mining | qubodup | [Gathering Stone Resources.flac](https://freesound.org/s/184383/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `door-knock` | Стук в дверь / Knocking on a door | HunteR4708 | [Knock on the door](https://freesound.org/s/256513/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `sword-fight` | Бой на мечах / Sword fight | bellick | [Machetes hit 1.wav](https://freesound.org/s/151465/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `arrow-impact` | Попадание стрелы / Arrow impact | Twisted_Euphoria | [Arrow Impact](https://freesound.org/s/205938/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `axe-hit` | Удар топора / Axe hit | smokebomb99 | [Axe Slash 1](https://freesound.org/s/147290/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `armor-clank` | Лязг доспехов / Clanking armor | juryduty | [armor.wav](https://freesound.org/s/180231/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `punch` | Удар кулаком / Punch | lewisisminted | [Punch #1.mp3](https://freesound.org/s/162370/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `bow-draw` | Натяжение лука / Drawing a bow | Paveroux | [Bow Drawn](https://freesound.org/s/490556/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `pain-grunt` | Стон от боли / Grunt of pain | tonsil5 | [Grunt2 - Death Pain.wav](https://freesound.org/s/416838/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `bear-growl` | Рык зверя / Beast growl | husky70 | [Angry Beast.wav](https://freesound.org/s/170454/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `lion-roar` | Рык льва / Lion roar | Podcapocalipsis | [LION ROAR](https://freesound.org/s/559600/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `slime-squish` | Хлюпанье слизи / Slime squish | qubodup | [Chicken Meat Slime](https://freesound.org/s/211605/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `demon-growl` | Рык демона / Demon growl | Manim8 | [Demon_Lion_Monster_Growl_Roar](https://freesound.org/s/469123/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `spider-skitter` | Шорох лапок / Skittering legs | dasrealized | [Fast Crawling Bu](https://freesound.org/s/266014/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `frogs` | Кваканье лягушек / Croaking frogs | mycompasstv | [Frogs croaking & crickets at night in jungle swamp Africa](https://freesound.org/s/462889/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `dark-magic` | Тёмная магия / Dark magic | LilMati | [Demonic Anger, Dark Spell](https://freesound.org/s/527636/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `summon` | Магическая аура / Magic aura | qubodup | [Wind & Water Aura](https://freesound.org/s/197266/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `crystal-chimes` | Хрустальный звон / Crystal chimes | LaurenPonder | [Crystal Twinkle](https://freesound.org/s/639429/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `potion-gulp` | Глоток зелья / Drinking a potion | craigglenday | [Drinking.wav](https://freesound.org/s/517173/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `bubbling-potion` | Бурлящее зелье / Bubbling potion | ristooooo1 | [Bubbles 001.wav](https://freesound.org/s/539823/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `zombie-moan` | Стон зомби / Zombie moan | soykevin | [Zombie Attack](https://freesound.org/s/213509/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `bones-rattle` | Стук костей / Rattling bones | spookymodem | [Rattling Bones.wav](https://freesound.org/s/202102/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `evil-laugh` | Зловещий смех / Evil laugh | timtube | [Evil Laugh.wav](https://freesound.org/s/169826/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `graveyard-night` | Ночное кладбище / Graveyard at night | mistersherlock | [Halloween - Graveyard At Night Howling Wind.mp3](https://freesound.org/s/159509/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `ship-bell` | Корабельный колокол / Ship's bell | Sojan | [Ship Bell Two Chimes](https://freesound.org/s/353232/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `sails-flapping` | Хлопанье парусов / Flapping sails | AlaskaRobotics | [waving flag](https://freesound.org/s/221090/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `big-splash` | Всплеск / Big splash | qubodup | [Big Water Splash](https://freesound.org/s/442773/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `pipe-organ` | Орган / Pipe organ | BaDoink | [Pipe Organ Intro.wav](https://freesound.org/s/544386/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `gentle-rain` | Тихий дождь / Gentle rain | jmbphilmes | [Rain light 2 (rural)](https://freesound.org/s/200273/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `earthquake` | Землетрясение / Earthquake | uagadugu | [Cracking Earthquake (cracking soil, cracking stone)](https://freesound.org/s/222521/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `wind-in-trees` | Ветер в листве / Wind in the trees | kvgarlic | [WinterWindThroughDryOakLeavesPlusGeeseDec21st201541hz.WAV](https://freesound.org/s/331510/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `footsteps-forest` | Шаги по лесу / Walking in a forest | rempen | [Forest dry leaves walk. .wav](https://freesound.org/s/274833/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `footsteps-snow` | Шаги по снегу / Walking on snow | Nox_Sound | [Footsteps_Mountain_Boots_Snow_Walk_Mono.wav](https://freesound.org/s/613849/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |

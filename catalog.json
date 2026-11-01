@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "library-v2",
-  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v2/",
+  "release": "library-v3",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v3/",
   "categories": {
     "tavern": {
       "ru": "Таверна",
@@ -50,6 +50,10 @@
     "horror": {
       "ru": "Ужас и нежить",
       "en": "Horror & undead"
+    },
+    "music": {
+      "ru": "Музыка",
+      "en": "Music"
     }
   },
   "sounds": [
@@ -2491,6 +2495,1209 @@
         "author": "miekyj",
         "title": "creaking floor OWI.wav",
         "url": "https://freesound.org/s/326460/"
+      }
+    },
+    {
+      "id": "gravel-walk",
+      "name": {
+        "ru": "Шаги по гравию",
+        "en": "Walking on gravel"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "road",
+        "шаги",
+        "дорога"
+      ],
+      "duration": 35.0,
+      "size": 423222,
+      "format": "ogg",
+      "loop": false,
+      "file": "gravel-walk.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "PotatokingXII",
+        "title": "Footsteps Dirt Gravel",
+        "url": "https://freesound.org/s/352870/"
+      }
+    },
+    {
+      "id": "horse-trot",
+      "name": {
+        "ru": "Рысь коня",
+        "en": "Horse trotting"
+      },
+      "category": "travel",
+      "tags": [
+        "horse",
+        "конь"
+      ],
+      "duration": 29.4,
+      "size": 783127,
+      "format": "ogg",
+      "loop": false,
+      "file": "horse-trot.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "swiftoid",
+        "title": "Horse Clip Clopping Downhill (stereo)",
+        "url": "https://freesound.org/s/182504/"
+      }
+    },
+    {
+      "id": "creaking-cart",
+      "name": {
+        "ru": "Скрип телеги",
+        "en": "Creaking cart"
+      },
+      "category": "travel",
+      "tags": [
+        "cart",
+        "wagon",
+        "телега"
+      ],
+      "duration": 53.1,
+      "size": 611714,
+      "format": "ogg",
+      "loop": false,
+      "file": "creaking-cart.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "craigsmith",
+        "title": "G52-05-Ox Cart.wav",
+        "url": "https://freesound.org/s/437078/"
+      }
+    },
+    {
+      "id": "pouring-ale",
+      "name": {
+        "ru": "Наливают эль",
+        "en": "Pouring ale"
+      },
+      "category": "tavern",
+      "tags": [
+        "beer",
+        "эль"
+      ],
+      "duration": 19.1,
+      "size": 284229,
+      "format": "ogg",
+      "loop": false,
+      "file": "pouring-ale.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "deleted_user_7146007",
+        "title": "Pouring a Beer Into a Glass",
+        "url": "https://freesound.org/s/383865/"
+      }
+    },
+    {
+      "id": "crowd-laughter",
+      "name": {
+        "ru": "Хохот толпы",
+        "en": "Crowd laughter"
+      },
+      "category": "tavern",
+      "tags": [
+        "laugh",
+        "смех"
+      ],
+      "duration": 6.0,
+      "size": 82801,
+      "format": "ogg",
+      "loop": false,
+      "file": "crowd-laughter.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "wrc4all",
+        "title": "laughs",
+        "url": "https://freesound.org/s/403058/"
+      }
+    },
+    {
+      "id": "card-shuffle",
+      "name": {
+        "ru": "Тасуют карты",
+        "en": "Shuffling cards"
+      },
+      "category": "tavern",
+      "tags": [
+        "cards",
+        "карты"
+      ],
+      "duration": 2.6,
+      "size": 32346,
+      "format": "ogg",
+      "loop": false,
+      "file": "card-shuffle.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "SomeoneCool15",
+        "title": "Card shuffling.mp3",
+        "url": "https://freesound.org/s/423767/"
+      }
+    },
+    {
+      "id": "table-bang",
+      "name": {
+        "ru": "Удар по столу",
+        "en": "Banging on a table"
+      },
+      "category": "tavern",
+      "tags": [
+        "table",
+        "стол"
+      ],
+      "duration": 7.0,
+      "size": 70904,
+      "format": "ogg",
+      "loop": false,
+      "file": "table-bang.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "filmfan87",
+        "title": "hand hitting table.wav",
+        "url": "https://freesound.org/s/108396/"
+      }
+    },
+    {
+      "id": "stew-boiling",
+      "name": {
+        "ru": "Кипит похлёбка",
+        "en": "Boiling stew"
+      },
+      "category": "tavern",
+      "tags": [
+        "cooking",
+        "кухня"
+      ],
+      "duration": 14.4,
+      "size": 326925,
+      "format": "ogg",
+      "loop": false,
+      "file": "stew-boiling.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "monsterthing",
+        "title": "Boiling Pot of Water",
+        "url": "https://freesound.org/s/456382/"
+      }
+    },
+    {
+      "id": "market-crowd",
+      "name": {
+        "ru": "Рыночная площадь",
+        "en": "Market square"
+      },
+      "category": "city",
+      "tags": [
+        "market",
+        "рынок"
+      ],
+      "duration": 167.3,
+      "size": 4011215,
+      "format": "ogg",
+      "loop": false,
+      "file": "market-crowd.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "SamuelGremaud",
+        "title": "CROWD",
+        "url": "https://freesound.org/s/545756/"
+      }
+    },
+    {
+      "id": "wood-chopping",
+      "name": {
+        "ru": "Рубка дров",
+        "en": "Chopping wood"
+      },
+      "category": "city",
+      "tags": [
+        "axe",
+        "дрова"
+      ],
+      "duration": 12.9,
+      "size": 135244,
+      "format": "ogg",
+      "loop": false,
+      "file": "wood-chopping.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "xkeril",
+        "title": "Axe chopping wood",
+        "url": "https://freesound.org/s/753925/"
+      }
+    },
+    {
+      "id": "hammering-wood",
+      "name": {
+        "ru": "Стук молотка",
+        "en": "Hammering wood"
+      },
+      "category": "city",
+      "tags": [
+        "carpenter",
+        "плотник"
+      ],
+      "duration": 4.3,
+      "size": 60937,
+      "format": "ogg",
+      "loop": false,
+      "file": "hammering-wood.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "blukotek",
+        "title": "hammer v1.wav",
+        "url": "https://freesound.org/s/337816/"
+      }
+    },
+    {
+      "id": "hand-saw",
+      "name": {
+        "ru": "Пила по дереву",
+        "en": "Hand saw"
+      },
+      "category": "city",
+      "tags": [
+        "carpenter",
+        "плотник"
+      ],
+      "duration": 12.2,
+      "size": 146866,
+      "format": "ogg",
+      "loop": false,
+      "file": "hand-saw.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Pagey1969",
+        "title": "deeper saw wood.wav",
+        "url": "https://freesound.org/s/566037/"
+      }
+    },
+    {
+      "id": "hand-bell",
+      "name": {
+        "ru": "Колокольчик глашатая",
+        "en": "Crier's hand bell"
+      },
+      "category": "city",
+      "tags": [
+        "bell",
+        "колокольчик"
+      ],
+      "duration": 9.0,
+      "size": 212940,
+      "format": "ogg",
+      "loop": false,
+      "file": "hand-bell.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "WebbFilmsUK",
+        "title": "Hand Bell.wav",
+        "url": "https://freesound.org/s/200318/"
+      }
+    },
+    {
+      "id": "sewer",
+      "name": {
+        "ru": "Канализация",
+        "en": "Sewer"
+      },
+      "category": "dungeon",
+      "tags": [
+        "water",
+        "сток"
+      ],
+      "duration": 93.2,
+      "size": 2394331,
+      "format": "ogg",
+      "loop": false,
+      "file": "sewer.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "thedapperdan",
+        "title": "sewer drain.wav",
+        "url": "https://freesound.org/s/26910/"
+      }
+    },
+    {
+      "id": "stone-grinding",
+      "name": {
+        "ru": "Скрежет камня",
+        "en": "Grinding stone"
+      },
+      "category": "dungeon",
+      "tags": [
+        "stone",
+        "камень"
+      ],
+      "duration": 16.9,
+      "size": 160121,
+      "format": "ogg",
+      "loop": false,
+      "file": "stone-grinding.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "NahuelMartinez",
+        "title": "Stone Slab Door Grinding - Heavy Rock Scrape (Mono)",
+        "url": "https://freesound.org/s/844329/"
+      }
+    },
+    {
+      "id": "lever-pull",
+      "name": {
+        "ru": "Рычаг",
+        "en": "Pulling a lever"
+      },
+      "category": "dungeon",
+      "tags": [
+        "lever",
+        "рычаг"
+      ],
+      "duration": 0.6,
+      "size": 11736,
+      "format": "ogg",
+      "loop": false,
+      "file": "lever-pull.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "BMacZero",
+        "title": "Mechanical2.wav",
+        "url": "https://freesound.org/s/94121/"
+      }
+    },
+    {
+      "id": "rocks-falling",
+      "name": {
+        "ru": "Обвал",
+        "en": "Rockfall"
+      },
+      "category": "dungeon",
+      "tags": [
+        "collapse",
+        "обвал"
+      ],
+      "duration": 4.2,
+      "size": 165922,
+      "format": "ogg",
+      "loop": false,
+      "file": "rocks-falling.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "iwanPlays",
+        "title": "Bricks/Stones/Rocks/Gravel Falling",
+        "url": "https://freesound.org/s/567249/"
+      }
+    },
+    {
+      "id": "pickaxe-mining",
+      "name": {
+        "ru": "Кирка в шахте",
+        "en": "Pickaxe mining"
+      },
+      "category": "dungeon",
+      "tags": [
+        "mine",
+        "шахта"
+      ],
+      "duration": 10.7,
+      "size": 220842,
+      "format": "ogg",
+      "loop": false,
+      "file": "pickaxe-mining.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "qubodup",
+        "title": "Gathering Stone Resources.flac",
+        "url": "https://freesound.org/s/184383/"
+      }
+    },
+    {
+      "id": "door-knock",
+      "name": {
+        "ru": "Стук в дверь",
+        "en": "Knocking on a door"
+      },
+      "category": "dungeon",
+      "tags": [
+        "door",
+        "дверь"
+      ],
+      "duration": 7.0,
+      "size": 158248,
+      "format": "ogg",
+      "loop": false,
+      "file": "door-knock.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "HunteR4708",
+        "title": "Knock on the door",
+        "url": "https://freesound.org/s/256513/"
+      }
+    },
+    {
+      "id": "sword-fight",
+      "name": {
+        "ru": "Бой на мечах",
+        "en": "Sword fight"
+      },
+      "category": "battle",
+      "tags": [
+        "sword",
+        "меч"
+      ],
+      "duration": 35.2,
+      "size": 362055,
+      "format": "ogg",
+      "loop": false,
+      "file": "sword-fight.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "bellick",
+        "title": "Machetes hit 1.wav",
+        "url": "https://freesound.org/s/151465/"
+      }
+    },
+    {
+      "id": "arrow-impact",
+      "name": {
+        "ru": "Попадание стрелы",
+        "en": "Arrow impact"
+      },
+      "category": "battle",
+      "tags": [
+        "arrow",
+        "стрела"
+      ],
+      "duration": 0.6,
+      "size": 11505,
+      "format": "ogg",
+      "loop": false,
+      "file": "arrow-impact.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Twisted_Euphoria",
+        "title": "Arrow Impact",
+        "url": "https://freesound.org/s/205938/"
+      }
+    },
+    {
+      "id": "axe-hit",
+      "name": {
+        "ru": "Удар топора",
+        "en": "Axe hit"
+      },
+      "category": "battle",
+      "tags": [
+        "axe",
+        "топор"
+      ],
+      "duration": 0.7,
+      "size": 19325,
+      "format": "ogg",
+      "loop": false,
+      "file": "axe-hit.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "smokebomb99",
+        "title": "Axe Slash 1",
+        "url": "https://freesound.org/s/147290/"
+      }
+    },
+    {
+      "id": "armor-clank",
+      "name": {
+        "ru": "Лязг доспехов",
+        "en": "Clanking armor"
+      },
+      "category": "battle",
+      "tags": [
+        "armor",
+        "доспехи"
+      ],
+      "duration": 22.4,
+      "size": 275824,
+      "format": "ogg",
+      "loop": false,
+      "file": "armor-clank.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "juryduty",
+        "title": "armor.wav",
+        "url": "https://freesound.org/s/180231/"
+      }
+    },
+    {
+      "id": "punch",
+      "name": {
+        "ru": "Удар кулаком",
+        "en": "Punch"
+      },
+      "category": "battle",
+      "tags": [
+        "fist",
+        "кулак"
+      ],
+      "duration": 1.3,
+      "size": 16852,
+      "format": "ogg",
+      "loop": false,
+      "file": "punch.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "lewisisminted",
+        "title": "Punch #1.mp3",
+        "url": "https://freesound.org/s/162370/"
+      }
+    },
+    {
+      "id": "bow-draw",
+      "name": {
+        "ru": "Натяжение лука",
+        "en": "Drawing a bow"
+      },
+      "category": "battle",
+      "tags": [
+        "bow",
+        "лук"
+      ],
+      "duration": 2.6,
+      "size": 53939,
+      "format": "ogg",
+      "loop": false,
+      "file": "bow-draw.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Paveroux",
+        "title": "Bow Drawn",
+        "url": "https://freesound.org/s/490556/"
+      }
+    },
+    {
+      "id": "pain-grunt",
+      "name": {
+        "ru": "Стон от боли",
+        "en": "Grunt of pain"
+      },
+      "category": "battle",
+      "tags": [
+        "pain",
+        "боль"
+      ],
+      "duration": 1.5,
+      "size": 19985,
+      "format": "ogg",
+      "loop": false,
+      "file": "pain-grunt.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "tonsil5",
+        "title": "Grunt2 - Death Pain.wav",
+        "url": "https://freesound.org/s/416838/"
+      }
+    },
+    {
+      "id": "bear-growl",
+      "name": {
+        "ru": "Рык зверя",
+        "en": "Beast growl"
+      },
+      "category": "creatures",
+      "tags": [
+        "beast",
+        "зверь"
+      ],
+      "duration": 13.1,
+      "size": 139362,
+      "format": "ogg",
+      "loop": false,
+      "file": "bear-growl.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "husky70",
+        "title": "Angry Beast.wav",
+        "url": "https://freesound.org/s/170454/"
+      }
+    },
+    {
+      "id": "lion-roar",
+      "name": {
+        "ru": "Рык льва",
+        "en": "Lion roar"
+      },
+      "category": "creatures",
+      "tags": [
+        "lion",
+        "лев"
+      ],
+      "duration": 14.0,
+      "size": 210100,
+      "format": "ogg",
+      "loop": false,
+      "file": "lion-roar.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Podcapocalipsis",
+        "title": "LION ROAR",
+        "url": "https://freesound.org/s/559600/"
+      }
+    },
+    {
+      "id": "slime-squish",
+      "name": {
+        "ru": "Хлюпанье слизи",
+        "en": "Slime squish"
+      },
+      "category": "creatures",
+      "tags": [
+        "slime",
+        "слизь"
+      ],
+      "duration": 9.9,
+      "size": 480742,
+      "format": "ogg",
+      "loop": false,
+      "file": "slime-squish.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "qubodup",
+        "title": "Chicken Meat Slime",
+        "url": "https://freesound.org/s/211605/"
+      }
+    },
+    {
+      "id": "demon-growl",
+      "name": {
+        "ru": "Рык демона",
+        "en": "Demon growl"
+      },
+      "category": "creatures",
+      "tags": [
+        "demon",
+        "демон"
+      ],
+      "duration": 8.3,
+      "size": 139003,
+      "format": "ogg",
+      "loop": false,
+      "file": "demon-growl.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Manim8",
+        "title": "Demon_Lion_Monster_Growl_Roar",
+        "url": "https://freesound.org/s/469123/"
+      }
+    },
+    {
+      "id": "spider-skitter",
+      "name": {
+        "ru": "Шорох лапок",
+        "en": "Skittering legs"
+      },
+      "category": "creatures",
+      "tags": [
+        "spider",
+        "паук"
+      ],
+      "duration": 2.6,
+      "size": 57607,
+      "format": "ogg",
+      "loop": false,
+      "file": "spider-skitter.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "dasrealized",
+        "title": "Fast Crawling Bu",
+        "url": "https://freesound.org/s/266014/"
+      }
+    },
+    {
+      "id": "frogs",
+      "name": {
+        "ru": "Кваканье лягушек",
+        "en": "Croaking frogs"
+      },
+      "category": "creatures",
+      "tags": [
+        "frog",
+        "лягушки"
+      ],
+      "duration": 46.0,
+      "size": 943369,
+      "format": "ogg",
+      "loop": false,
+      "file": "frogs.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "mycompasstv",
+        "title": "Frogs croaking & crickets at night in jungle swamp Africa",
+        "url": "https://freesound.org/s/462889/"
+      }
+    },
+    {
+      "id": "dark-magic",
+      "name": {
+        "ru": "Тёмная магия",
+        "en": "Dark magic"
+      },
+      "category": "magic",
+      "tags": [
+        "curse",
+        "проклятие"
+      ],
+      "duration": 5.9,
+      "size": 131749,
+      "format": "ogg",
+      "loop": false,
+      "file": "dark-magic.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "LilMati",
+        "title": "Demonic Anger, Dark Spell",
+        "url": "https://freesound.org/s/527636/"
+      }
+    },
+    {
+      "id": "summon",
+      "name": {
+        "ru": "Магическая аура",
+        "en": "Magic aura"
+      },
+      "category": "magic",
+      "tags": [
+        "aura",
+        "аура"
+      ],
+      "duration": 20.0,
+      "size": 489071,
+      "format": "ogg",
+      "loop": false,
+      "file": "summon.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "qubodup",
+        "title": "Wind & Water Aura",
+        "url": "https://freesound.org/s/197266/"
+      }
+    },
+    {
+      "id": "crystal-chimes",
+      "name": {
+        "ru": "Хрустальный звон",
+        "en": "Crystal chimes"
+      },
+      "category": "magic",
+      "tags": [
+        "crystal",
+        "кристалл"
+      ],
+      "duration": 4.0,
+      "size": 37174,
+      "format": "ogg",
+      "loop": false,
+      "file": "crystal-chimes.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "LaurenPonder",
+        "title": "Crystal Twinkle",
+        "url": "https://freesound.org/s/639429/"
+      }
+    },
+    {
+      "id": "potion-gulp",
+      "name": {
+        "ru": "Глоток зелья",
+        "en": "Drinking a potion"
+      },
+      "category": "magic",
+      "tags": [
+        "potion",
+        "зелье"
+      ],
+      "duration": 6.3,
+      "size": 96813,
+      "format": "ogg",
+      "loop": false,
+      "file": "potion-gulp.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "craigglenday",
+        "title": "Drinking.wav",
+        "url": "https://freesound.org/s/517173/"
+      }
+    },
+    {
+      "id": "bubbling-potion",
+      "name": {
+        "ru": "Бурлящее зелье",
+        "en": "Bubbling potion"
+      },
+      "category": "magic",
+      "tags": [
+        "potion",
+        "зелье"
+      ],
+      "duration": 4.8,
+      "size": 76297,
+      "format": "ogg",
+      "loop": false,
+      "file": "bubbling-potion.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "ristooooo1",
+        "title": "Bubbles 001.wav",
+        "url": "https://freesound.org/s/539823/"
+      }
+    },
+    {
+      "id": "zombie-moan",
+      "name": {
+        "ru": "Стон зомби",
+        "en": "Zombie moan"
+      },
+      "category": "horror",
+      "tags": [
+        "zombie",
+        "зомби"
+      ],
+      "duration": 8.0,
+      "size": 152854,
+      "format": "ogg",
+      "loop": false,
+      "file": "zombie-moan.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "soykevin",
+        "title": "Zombie Attack",
+        "url": "https://freesound.org/s/213509/"
+      }
+    },
+    {
+      "id": "bones-rattle",
+      "name": {
+        "ru": "Стук костей",
+        "en": "Rattling bones"
+      },
+      "category": "horror",
+      "tags": [
+        "skeleton",
+        "скелет"
+      ],
+      "duration": 5.5,
+      "size": 162823,
+      "format": "ogg",
+      "loop": false,
+      "file": "bones-rattle.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "spookymodem",
+        "title": "Rattling Bones.wav",
+        "url": "https://freesound.org/s/202102/"
+      }
+    },
+    {
+      "id": "evil-laugh",
+      "name": {
+        "ru": "Зловещий смех",
+        "en": "Evil laugh"
+      },
+      "category": "horror",
+      "tags": [
+        "laugh",
+        "смех"
+      ],
+      "duration": 8.1,
+      "size": 137715,
+      "format": "ogg",
+      "loop": false,
+      "file": "evil-laugh.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "timtube",
+        "title": "Evil Laugh.wav",
+        "url": "https://freesound.org/s/169826/"
+      }
+    },
+    {
+      "id": "graveyard-night",
+      "name": {
+        "ru": "Ночное кладбище",
+        "en": "Graveyard at night"
+      },
+      "category": "horror",
+      "tags": [
+        "grave",
+        "кладбище"
+      ],
+      "duration": 49.6,
+      "size": 752443,
+      "format": "ogg",
+      "loop": false,
+      "file": "graveyard-night.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "mistersherlock",
+        "title": "Halloween - Graveyard At Night Howling Wind.mp3",
+        "url": "https://freesound.org/s/159509/"
+      }
+    },
+    {
+      "id": "ship-bell",
+      "name": {
+        "ru": "Корабельный колокол",
+        "en": "Ship's bell"
+      },
+      "category": "sea",
+      "tags": [
+        "bell",
+        "колокол"
+      ],
+      "duration": 2.9,
+      "size": 35786,
+      "format": "ogg",
+      "loop": false,
+      "file": "ship-bell.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Sojan",
+        "title": "Ship Bell Two Chimes",
+        "url": "https://freesound.org/s/353232/"
+      }
+    },
+    {
+      "id": "sails-flapping",
+      "name": {
+        "ru": "Хлопанье парусов",
+        "en": "Flapping sails"
+      },
+      "category": "sea",
+      "tags": [
+        "sail",
+        "паруса"
+      ],
+      "duration": 12.5,
+      "size": 157795,
+      "format": "ogg",
+      "loop": false,
+      "file": "sails-flapping.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "AlaskaRobotics",
+        "title": "waving flag",
+        "url": "https://freesound.org/s/221090/"
+      }
+    },
+    {
+      "id": "big-splash",
+      "name": {
+        "ru": "Всплеск",
+        "en": "Big splash"
+      },
+      "category": "sea",
+      "tags": [
+        "water",
+        "вода"
+      ],
+      "duration": 2.2,
+      "size": 47683,
+      "format": "ogg",
+      "loop": false,
+      "file": "big-splash.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "qubodup",
+        "title": "Big Water Splash",
+        "url": "https://freesound.org/s/442773/"
+      }
+    },
+    {
+      "id": "pipe-organ",
+      "name": {
+        "ru": "Орган",
+        "en": "Pipe organ"
+      },
+      "category": "temple",
+      "tags": [
+        "organ",
+        "орган"
+      ],
+      "duration": 54.4,
+      "size": 743444,
+      "format": "ogg",
+      "loop": false,
+      "file": "pipe-organ.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "BaDoink",
+        "title": "Pipe Organ Intro.wav",
+        "url": "https://freesound.org/s/544386/"
+      }
+    },
+    {
+      "id": "gentle-rain",
+      "name": {
+        "ru": "Тихий дождь",
+        "en": "Gentle rain"
+      },
+      "category": "weather",
+      "tags": [
+        "rain",
+        "дождь"
+      ],
+      "duration": 95.1,
+      "size": 1022087,
+      "format": "ogg",
+      "loop": false,
+      "file": "gentle-rain.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "jmbphilmes",
+        "title": "Rain light 2 (rural)",
+        "url": "https://freesound.org/s/200273/"
+      }
+    },
+    {
+      "id": "earthquake",
+      "name": {
+        "ru": "Землетрясение",
+        "en": "Earthquake"
+      },
+      "category": "weather",
+      "tags": [
+        "rumble",
+        "гул"
+      ],
+      "duration": 11.9,
+      "size": 290179,
+      "format": "ogg",
+      "loop": false,
+      "file": "earthquake.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "uagadugu",
+        "title": "Cracking Earthquake (cracking soil, cracking stone)",
+        "url": "https://freesound.org/s/222521/"
+      }
+    },
+    {
+      "id": "wind-in-trees",
+      "name": {
+        "ru": "Ветер в листве",
+        "en": "Wind in the trees"
+      },
+      "category": "nature",
+      "tags": [
+        "wind",
+        "ветер"
+      ],
+      "duration": 295.4,
+      "size": 6423487,
+      "format": "ogg",
+      "loop": false,
+      "file": "wind-in-trees.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "kvgarlic",
+        "title": "WinterWindThroughDryOakLeavesPlusGeeseDec21st201541hz.WAV",
+        "url": "https://freesound.org/s/331510/"
+      }
+    },
+    {
+      "id": "footsteps-forest",
+      "name": {
+        "ru": "Шаги по лесу",
+        "en": "Walking in a forest"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "шаги"
+      ],
+      "duration": 34.4,
+      "size": 1011929,
+      "format": "ogg",
+      "loop": false,
+      "file": "footsteps-forest.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "rempen",
+        "title": "Forest dry leaves walk. .wav",
+        "url": "https://freesound.org/s/274833/"
+      }
+    },
+    {
+      "id": "footsteps-snow",
+      "name": {
+        "ru": "Шаги по снегу",
+        "en": "Walking on snow"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "шаги"
+      ],
+      "duration": 11.3,
+      "size": 70048,
+      "format": "ogg",
+      "loop": false,
+      "file": "footsteps-snow.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Nox_Sound",
+        "title": "Footsteps_Mountain_Boots_Snow_Walk_Mono.wav",
+        "url": "https://freesound.org/s/613849/"
       }
     }
   ]

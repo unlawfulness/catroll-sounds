@@ -1,5 +1,5 @@
 {
-  "_comment": "Что искать для library-v2. min/max — длительность в секундах. Подбор: python tools/discover.py → tools/candidates.json",
+  "_comment": "Что искать для library-v3. min/max — длительность в секундах. Подбор: python tools/discover.py → tools/candidates.json",
   "newCategories": {
     "sea": {
       "ru": "Море",
@@ -1065,6 +1065,635 @@
         "cart",
         "wagon",
         "телега"
+      ]
+    },
+    {
+      "id": "pouring-ale",
+      "category": "tavern",
+      "q": "pouring beer",
+      "min": 2,
+      "max": 30,
+      "ru": "Наливают эль",
+      "en": "Pouring ale",
+      "tags": [
+        "beer",
+        "эль"
+      ]
+    },
+    {
+      "id": "crowd-laughter",
+      "category": "tavern",
+      "q": "crowd laughing",
+      "min": 2,
+      "max": 40,
+      "ru": "Хохот толпы",
+      "en": "Crowd laughter",
+      "tags": [
+        "laugh",
+        "смех"
+      ]
+    },
+    {
+      "id": "card-shuffle",
+      "category": "tavern",
+      "q": "shuffling cards",
+      "min": 1,
+      "max": 20,
+      "ru": "Тасуют карты",
+      "en": "Shuffling cards",
+      "tags": [
+        "cards",
+        "карты"
+      ]
+    },
+    {
+      "id": "table-bang",
+      "category": "tavern",
+      "q": "fist table",
+      "min": 1,
+      "max": 15,
+      "ru": "Удар по столу",
+      "en": "Banging on a table",
+      "tags": [
+        "table",
+        "стол"
+      ],
+      "exclude": [
+        244325
+      ]
+    },
+    {
+      "id": "stew-boiling",
+      "category": "tavern",
+      "q": "boiling pot",
+      "min": 10,
+      "max": 180,
+      "ru": "Кипит похлёбка",
+      "en": "Boiling stew",
+      "tags": [
+        "cooking",
+        "кухня"
+      ]
+    },
+    {
+      "id": "market-crowd",
+      "category": "city",
+      "q": "market crowd",
+      "min": 20,
+      "max": 300,
+      "ru": "Рыночная площадь",
+      "en": "Market square",
+      "tags": [
+        "market",
+        "рынок"
+      ],
+      "exclude": [
+        144862
+      ]
+    },
+    {
+      "id": "wood-chopping",
+      "category": "city",
+      "q": "axe wood chop",
+      "min": 3,
+      "max": 60,
+      "ru": "Рубка дров",
+      "en": "Chopping wood",
+      "tags": [
+        "axe",
+        "дрова"
+      ],
+      "exclude": [
+        569389
+      ]
+    },
+    {
+      "id": "hammering-wood",
+      "category": "city",
+      "q": "hammering wood",
+      "min": 3,
+      "max": 60,
+      "ru": "Стук молотка",
+      "en": "Hammering wood",
+      "tags": [
+        "carpenter",
+        "плотник"
+      ]
+    },
+    {
+      "id": "hand-saw",
+      "category": "city",
+      "q": "hand saw wood",
+      "min": 3,
+      "max": 60,
+      "ru": "Пила по дереву",
+      "en": "Hand saw",
+      "tags": [
+        "carpenter",
+        "плотник"
+      ]
+    },
+    {
+      "id": "hand-bell",
+      "category": "city",
+      "q": "hand bell",
+      "min": 1,
+      "max": 20,
+      "ru": "Колокольчик глашатая",
+      "en": "Crier's hand bell",
+      "tags": [
+        "bell",
+        "колокольчик"
+      ]
+    },
+    {
+      "id": "sewer",
+      "category": "dungeon",
+      "q": "sewer drip",
+      "min": 20,
+      "max": 300,
+      "ru": "Канализация",
+      "en": "Sewer",
+      "tags": [
+        "water",
+        "сток"
+      ],
+      "exclude": [
+        153460
+      ]
+    },
+    {
+      "id": "stone-grinding",
+      "category": "dungeon",
+      "q": "stone grinding",
+      "min": 1,
+      "max": 30,
+      "ru": "Скрежет камня",
+      "en": "Grinding stone",
+      "tags": [
+        "stone",
+        "камень"
+      ]
+    },
+    {
+      "id": "lever-pull",
+      "category": "dungeon",
+      "q": "lever pull",
+      "min": 0.5,
+      "max": 10,
+      "ru": "Рычаг",
+      "en": "Pulling a lever",
+      "tags": [
+        "lever",
+        "рычаг"
+      ]
+    },
+    {
+      "id": "rocks-falling",
+      "category": "dungeon",
+      "q": "rocks falling",
+      "min": 1,
+      "max": 30,
+      "ru": "Обвал",
+      "en": "Rockfall",
+      "tags": [
+        "collapse",
+        "обвал"
+      ]
+    },
+    {
+      "id": "pickaxe-mining",
+      "category": "dungeon",
+      "q": "pickaxe",
+      "min": 2,
+      "max": 60,
+      "ru": "Кирка в шахте",
+      "en": "Pickaxe mining",
+      "tags": [
+        "mine",
+        "шахта"
+      ]
+    },
+    {
+      "id": "door-knock",
+      "category": "dungeon",
+      "q": "door knock",
+      "min": 1,
+      "max": 15,
+      "ru": "Стук в дверь",
+      "en": "Knocking on a door",
+      "tags": [
+        "door",
+        "дверь"
+      ]
+    },
+    {
+      "id": "sword-fight",
+      "category": "battle",
+      "q": "sword fight",
+      "min": 3,
+      "max": 60,
+      "ru": "Бой на мечах",
+      "en": "Sword fight",
+      "tags": [
+        "sword",
+        "меч"
+      ]
+    },
+    {
+      "id": "arrow-impact",
+      "category": "battle",
+      "q": "arrow impact",
+      "min": 0.3,
+      "max": 8,
+      "ru": "Попадание стрелы",
+      "en": "Arrow impact",
+      "tags": [
+        "arrow",
+        "стрела"
+      ]
+    },
+    {
+      "id": "axe-hit",
+      "category": "battle",
+      "q": "axe chop",
+      "min": 0.3,
+      "max": 8,
+      "ru": "Удар топора",
+      "en": "Axe hit",
+      "tags": [
+        "axe",
+        "топор"
+      ],
+      "exclude": [
+        431019
+      ]
+    },
+    {
+      "id": "armor-clank",
+      "category": "battle",
+      "q": "armor",
+      "min": 1,
+      "max": 30,
+      "ru": "Лязг доспехов",
+      "en": "Clanking armor",
+      "tags": [
+        "armor",
+        "доспехи"
+      ]
+    },
+    {
+      "id": "punch",
+      "category": "battle",
+      "q": "punch",
+      "min": 0.2,
+      "max": 5,
+      "ru": "Удар кулаком",
+      "en": "Punch",
+      "tags": [
+        "fist",
+        "кулак"
+      ]
+    },
+    {
+      "id": "bow-draw",
+      "category": "battle",
+      "q": "bow draw",
+      "min": 0.5,
+      "max": 10,
+      "ru": "Натяжение лука",
+      "en": "Drawing a bow",
+      "tags": [
+        "bow",
+        "лук"
+      ]
+    },
+    {
+      "id": "pain-grunt",
+      "category": "battle",
+      "q": "pain grunt",
+      "min": 0.3,
+      "max": 10,
+      "ru": "Стон от боли",
+      "en": "Grunt of pain",
+      "tags": [
+        "pain",
+        "боль"
+      ]
+    },
+    {
+      "id": "bear-growl",
+      "category": "creatures",
+      "q": "bear growl",
+      "min": 1,
+      "max": 30,
+      "ru": "Рык зверя",
+      "en": "Beast growl",
+      "tags": [
+        "beast",
+        "зверь"
+      ]
+    },
+    {
+      "id": "lion-roar",
+      "category": "creatures",
+      "q": "lion roar",
+      "min": 1,
+      "max": 30,
+      "ru": "Рык льва",
+      "en": "Lion roar",
+      "tags": [
+        "lion",
+        "лев"
+      ]
+    },
+    {
+      "id": "slime-squish",
+      "category": "creatures",
+      "q": "slime squish",
+      "min": 0.5,
+      "max": 15,
+      "ru": "Хлюпанье слизи",
+      "en": "Slime squish",
+      "tags": [
+        "slime",
+        "слизь"
+      ]
+    },
+    {
+      "id": "demon-growl",
+      "category": "creatures",
+      "q": "demon growl",
+      "min": 1,
+      "max": 30,
+      "ru": "Рык демона",
+      "en": "Demon growl",
+      "tags": [
+        "demon",
+        "демон"
+      ]
+    },
+    {
+      "id": "spider-skitter",
+      "category": "creatures",
+      "q": "insect crawling",
+      "min": 2,
+      "max": 40,
+      "ru": "Шорох лапок",
+      "en": "Skittering legs",
+      "tags": [
+        "spider",
+        "паук"
+      ]
+    },
+    {
+      "id": "frogs",
+      "category": "creatures",
+      "q": "frogs croaking",
+      "min": 10,
+      "max": 240,
+      "ru": "Кваканье лягушек",
+      "en": "Croaking frogs",
+      "tags": [
+        "frog",
+        "лягушки"
+      ]
+    },
+    {
+      "id": "dark-magic",
+      "category": "magic",
+      "q": "dark magic",
+      "min": 1,
+      "max": 20,
+      "ru": "Тёмная магия",
+      "en": "Dark magic",
+      "tags": [
+        "curse",
+        "проклятие"
+      ]
+    },
+    {
+      "id": "summon",
+      "category": "magic",
+      "q": "magic summon",
+      "min": 1,
+      "max": 20,
+      "ru": "Магическая аура",
+      "en": "Magic aura",
+      "tags": [
+        "aura",
+        "аура"
+      ]
+    },
+    {
+      "id": "crystal-chimes",
+      "category": "magic",
+      "q": "crystal chimes",
+      "min": 1,
+      "max": 30,
+      "ru": "Хрустальный звон",
+      "en": "Crystal chimes",
+      "tags": [
+        "crystal",
+        "кристалл"
+      ]
+    },
+    {
+      "id": "potion-gulp",
+      "category": "magic",
+      "q": "drinking gulp",
+      "min": 0.5,
+      "max": 15,
+      "ru": "Глоток зелья",
+      "en": "Drinking a potion",
+      "tags": [
+        "potion",
+        "зелье"
+      ]
+    },
+    {
+      "id": "bubbling-potion",
+      "category": "magic",
+      "q": "bubbling liquid",
+      "min": 3,
+      "max": 60,
+      "ru": "Бурлящее зелье",
+      "en": "Bubbling potion",
+      "tags": [
+        "potion",
+        "зелье"
+      ]
+    },
+    {
+      "id": "zombie-moan",
+      "category": "horror",
+      "q": "zombie",
+      "min": 1,
+      "max": 30,
+      "ru": "Стон зомби",
+      "en": "Zombie moan",
+      "tags": [
+        "zombie",
+        "зомби"
+      ]
+    },
+    {
+      "id": "bones-rattle",
+      "category": "horror",
+      "q": "bones rattle",
+      "min": 0.5,
+      "max": 20,
+      "ru": "Стук костей",
+      "en": "Rattling bones",
+      "tags": [
+        "skeleton",
+        "скелет"
+      ]
+    },
+    {
+      "id": "evil-laugh",
+      "category": "horror",
+      "q": "evil laugh",
+      "min": 1,
+      "max": 20,
+      "ru": "Зловещий смех",
+      "en": "Evil laugh",
+      "tags": [
+        "laugh",
+        "смех"
+      ]
+    },
+    {
+      "id": "graveyard-night",
+      "category": "horror",
+      "q": "graveyard",
+      "min": 20,
+      "max": 300,
+      "ru": "Ночное кладбище",
+      "en": "Graveyard at night",
+      "tags": [
+        "grave",
+        "кладбище"
+      ]
+    },
+    {
+      "id": "ship-bell",
+      "category": "sea",
+      "q": "ship bell",
+      "min": 1,
+      "max": 20,
+      "ru": "Корабельный колокол",
+      "en": "Ship's bell",
+      "tags": [
+        "bell",
+        "колокол"
+      ]
+    },
+    {
+      "id": "sails-flapping",
+      "category": "sea",
+      "q": "sails flapping",
+      "min": 3,
+      "max": 90,
+      "ru": "Хлопанье парусов",
+      "en": "Flapping sails",
+      "tags": [
+        "sail",
+        "паруса"
+      ]
+    },
+    {
+      "id": "big-splash",
+      "category": "sea",
+      "q": "big splash",
+      "min": 0.5,
+      "max": 10,
+      "ru": "Всплеск",
+      "en": "Big splash",
+      "tags": [
+        "water",
+        "вода"
+      ]
+    },
+    {
+      "id": "pipe-organ",
+      "category": "temple",
+      "q": "pipe organ",
+      "min": 5,
+      "max": 120,
+      "ru": "Орган",
+      "en": "Pipe organ",
+      "tags": [
+        "organ",
+        "орган"
+      ]
+    },
+    {
+      "id": "gentle-rain",
+      "category": "weather",
+      "q": "light rain",
+      "min": 30,
+      "max": 300,
+      "ru": "Тихий дождь",
+      "en": "Gentle rain",
+      "tags": [
+        "rain",
+        "дождь"
+      ],
+      "exclude": [
+        469009
+      ]
+    },
+    {
+      "id": "earthquake",
+      "category": "weather",
+      "q": "earthquake rumble",
+      "min": 2,
+      "max": 60,
+      "ru": "Землетрясение",
+      "en": "Earthquake",
+      "tags": [
+        "rumble",
+        "гул"
+      ]
+    },
+    {
+      "id": "wind-in-trees",
+      "category": "nature",
+      "q": "wind leaves",
+      "min": 20,
+      "max": 300,
+      "ru": "Ветер в листве",
+      "en": "Wind in the trees",
+      "tags": [
+        "wind",
+        "ветер"
+      ]
+    },
+    {
+      "id": "footsteps-forest",
+      "category": "travel",
+      "q": "footsteps forest",
+      "min": 5,
+      "max": 120,
+      "ru": "Шаги по лесу",
+      "en": "Walking in a forest",
+      "tags": [
+        "footsteps",
+        "шаги"
+      ]
+    },
+    {
+      "id": "footsteps-snow",
+      "category": "travel",
+      "q": "footsteps snow",
+      "min": 5,
+      "max": 120,
+      "ru": "Шаги по снегу",
+      "en": "Walking on snow",
+      "tags": [
+        "footsteps",
+        "шаги"
       ]
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "release": "library-v2",
-  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v2/",
+  "release": "library-v3",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v3/",
   "categories": {
     "tavern": {
       "ru": "Таверна",
@@ -49,6 +49,10 @@
     "horror": {
       "ru": "Ужас и нежить",
       "en": "Horror & undead"
+    },
+    "music": {
+      "ru": "Музыка",
+      "en": "Music"
     }
   },
   "sounds": [
@@ -1448,6 +1452,659 @@
         "floor",
         "creak",
         "скрип"
+      ]
+    },
+    {
+      "id": "gravel-walk",
+      "freesound": 352870,
+      "name": {
+        "ru": "Шаги по гравию",
+        "en": "Walking on gravel"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "road",
+        "шаги",
+        "дорога"
+      ]
+    },
+    {
+      "id": "horse-trot",
+      "freesound": 182504,
+      "name": {
+        "ru": "Рысь коня",
+        "en": "Horse trotting"
+      },
+      "category": "travel",
+      "tags": [
+        "horse",
+        "конь"
+      ]
+    },
+    {
+      "id": "creaking-cart",
+      "freesound": 437078,
+      "name": {
+        "ru": "Скрип телеги",
+        "en": "Creaking cart"
+      },
+      "category": "travel",
+      "tags": [
+        "cart",
+        "wagon",
+        "телега"
+      ]
+    },
+    {
+      "id": "pouring-ale",
+      "freesound": 383865,
+      "name": {
+        "ru": "Наливают эль",
+        "en": "Pouring ale"
+      },
+      "category": "tavern",
+      "tags": [
+        "beer",
+        "эль"
+      ]
+    },
+    {
+      "id": "crowd-laughter",
+      "freesound": 403058,
+      "name": {
+        "ru": "Хохот толпы",
+        "en": "Crowd laughter"
+      },
+      "category": "tavern",
+      "tags": [
+        "laugh",
+        "смех"
+      ]
+    },
+    {
+      "id": "card-shuffle",
+      "freesound": 423767,
+      "name": {
+        "ru": "Тасуют карты",
+        "en": "Shuffling cards"
+      },
+      "category": "tavern",
+      "tags": [
+        "cards",
+        "карты"
+      ]
+    },
+    {
+      "id": "table-bang",
+      "freesound": 108396,
+      "name": {
+        "ru": "Удар по столу",
+        "en": "Banging on a table"
+      },
+      "category": "tavern",
+      "tags": [
+        "table",
+        "стол"
+      ]
+    },
+    {
+      "id": "stew-boiling",
+      "freesound": 456382,
+      "name": {
+        "ru": "Кипит похлёбка",
+        "en": "Boiling stew"
+      },
+      "category": "tavern",
+      "tags": [
+        "cooking",
+        "кухня"
+      ]
+    },
+    {
+      "id": "market-crowd",
+      "freesound": 545756,
+      "name": {
+        "ru": "Рыночная площадь",
+        "en": "Market square"
+      },
+      "category": "city",
+      "tags": [
+        "market",
+        "рынок"
+      ]
+    },
+    {
+      "id": "wood-chopping",
+      "freesound": 753925,
+      "name": {
+        "ru": "Рубка дров",
+        "en": "Chopping wood"
+      },
+      "category": "city",
+      "tags": [
+        "axe",
+        "дрова"
+      ]
+    },
+    {
+      "id": "hammering-wood",
+      "freesound": 337816,
+      "name": {
+        "ru": "Стук молотка",
+        "en": "Hammering wood"
+      },
+      "category": "city",
+      "tags": [
+        "carpenter",
+        "плотник"
+      ]
+    },
+    {
+      "id": "hand-saw",
+      "freesound": 566037,
+      "name": {
+        "ru": "Пила по дереву",
+        "en": "Hand saw"
+      },
+      "category": "city",
+      "tags": [
+        "carpenter",
+        "плотник"
+      ]
+    },
+    {
+      "id": "hand-bell",
+      "freesound": 200318,
+      "name": {
+        "ru": "Колокольчик глашатая",
+        "en": "Crier's hand bell"
+      },
+      "category": "city",
+      "tags": [
+        "bell",
+        "колокольчик"
+      ]
+    },
+    {
+      "id": "sewer",
+      "freesound": 26910,
+      "name": {
+        "ru": "Канализация",
+        "en": "Sewer"
+      },
+      "category": "dungeon",
+      "tags": [
+        "water",
+        "сток"
+      ]
+    },
+    {
+      "id": "stone-grinding",
+      "freesound": 844329,
+      "name": {
+        "ru": "Скрежет камня",
+        "en": "Grinding stone"
+      },
+      "category": "dungeon",
+      "tags": [
+        "stone",
+        "камень"
+      ]
+    },
+    {
+      "id": "lever-pull",
+      "freesound": 94121,
+      "name": {
+        "ru": "Рычаг",
+        "en": "Pulling a lever"
+      },
+      "category": "dungeon",
+      "tags": [
+        "lever",
+        "рычаг"
+      ]
+    },
+    {
+      "id": "rocks-falling",
+      "freesound": 567249,
+      "name": {
+        "ru": "Обвал",
+        "en": "Rockfall"
+      },
+      "category": "dungeon",
+      "tags": [
+        "collapse",
+        "обвал"
+      ]
+    },
+    {
+      "id": "pickaxe-mining",
+      "freesound": 184383,
+      "name": {
+        "ru": "Кирка в шахте",
+        "en": "Pickaxe mining"
+      },
+      "category": "dungeon",
+      "tags": [
+        "mine",
+        "шахта"
+      ]
+    },
+    {
+      "id": "door-knock",
+      "freesound": 256513,
+      "name": {
+        "ru": "Стук в дверь",
+        "en": "Knocking on a door"
+      },
+      "category": "dungeon",
+      "tags": [
+        "door",
+        "дверь"
+      ]
+    },
+    {
+      "id": "sword-fight",
+      "freesound": 151465,
+      "name": {
+        "ru": "Бой на мечах",
+        "en": "Sword fight"
+      },
+      "category": "battle",
+      "tags": [
+        "sword",
+        "меч"
+      ]
+    },
+    {
+      "id": "arrow-impact",
+      "freesound": 205938,
+      "name": {
+        "ru": "Попадание стрелы",
+        "en": "Arrow impact"
+      },
+      "category": "battle",
+      "tags": [
+        "arrow",
+        "стрела"
+      ]
+    },
+    {
+      "id": "axe-hit",
+      "freesound": 147290,
+      "name": {
+        "ru": "Удар топора",
+        "en": "Axe hit"
+      },
+      "category": "battle",
+      "tags": [
+        "axe",
+        "топор"
+      ]
+    },
+    {
+      "id": "armor-clank",
+      "freesound": 180231,
+      "name": {
+        "ru": "Лязг доспехов",
+        "en": "Clanking armor"
+      },
+      "category": "battle",
+      "tags": [
+        "armor",
+        "доспехи"
+      ]
+    },
+    {
+      "id": "punch",
+      "freesound": 162370,
+      "name": {
+        "ru": "Удар кулаком",
+        "en": "Punch"
+      },
+      "category": "battle",
+      "tags": [
+        "fist",
+        "кулак"
+      ]
+    },
+    {
+      "id": "bow-draw",
+      "freesound": 490556,
+      "name": {
+        "ru": "Натяжение лука",
+        "en": "Drawing a bow"
+      },
+      "category": "battle",
+      "tags": [
+        "bow",
+        "лук"
+      ]
+    },
+    {
+      "id": "pain-grunt",
+      "freesound": 416838,
+      "name": {
+        "ru": "Стон от боли",
+        "en": "Grunt of pain"
+      },
+      "category": "battle",
+      "tags": [
+        "pain",
+        "боль"
+      ]
+    },
+    {
+      "id": "bear-growl",
+      "freesound": 170454,
+      "name": {
+        "ru": "Рык зверя",
+        "en": "Beast growl"
+      },
+      "category": "creatures",
+      "tags": [
+        "beast",
+        "зверь"
+      ]
+    },
+    {
+      "id": "lion-roar",
+      "freesound": 559600,
+      "name": {
+        "ru": "Рык льва",
+        "en": "Lion roar"
+      },
+      "category": "creatures",
+      "tags": [
+        "lion",
+        "лев"
+      ]
+    },
+    {
+      "id": "slime-squish",
+      "freesound": 211605,
+      "name": {
+        "ru": "Хлюпанье слизи",
+        "en": "Slime squish"
+      },
+      "category": "creatures",
+      "tags": [
+        "slime",
+        "слизь"
+      ]
+    },
+    {
+      "id": "demon-growl",
+      "freesound": 469123,
+      "name": {
+        "ru": "Рык демона",
+        "en": "Demon growl"
+      },
+      "category": "creatures",
+      "tags": [
+        "demon",
+        "демон"
+      ]
+    },
+    {
+      "id": "spider-skitter",
+      "freesound": 266014,
+      "name": {
+        "ru": "Шорох лапок",
+        "en": "Skittering legs"
+      },
+      "category": "creatures",
+      "tags": [
+        "spider",
+        "паук"
+      ]
+    },
+    {
+      "id": "frogs",
+      "freesound": 462889,
+      "name": {
+        "ru": "Кваканье лягушек",
+        "en": "Croaking frogs"
+      },
+      "category": "creatures",
+      "tags": [
+        "frog",
+        "лягушки"
+      ]
+    },
+    {
+      "id": "dark-magic",
+      "freesound": 527636,
+      "name": {
+        "ru": "Тёмная магия",
+        "en": "Dark magic"
+      },
+      "category": "magic",
+      "tags": [
+        "curse",
+        "проклятие"
+      ]
+    },
+    {
+      "id": "summon",
+      "freesound": 197266,
+      "name": {
+        "ru": "Магическая аура",
+        "en": "Magic aura"
+      },
+      "category": "magic",
+      "tags": [
+        "aura",
+        "аура"
+      ]
+    },
+    {
+      "id": "crystal-chimes",
+      "freesound": 639429,
+      "name": {
+        "ru": "Хрустальный звон",
+        "en": "Crystal chimes"
+      },
+      "category": "magic",
+      "tags": [
+        "crystal",
+        "кристалл"
+      ]
+    },
+    {
+      "id": "potion-gulp",
+      "freesound": 517173,
+      "name": {
+        "ru": "Глоток зелья",
+        "en": "Drinking a potion"
+      },
+      "category": "magic",
+      "tags": [
+        "potion",
+        "зелье"
+      ]
+    },
+    {
+      "id": "bubbling-potion",
+      "freesound": 539823,
+      "name": {
+        "ru": "Бурлящее зелье",
+        "en": "Bubbling potion"
+      },
+      "category": "magic",
+      "tags": [
+        "potion",
+        "зелье"
+      ]
+    },
+    {
+      "id": "zombie-moan",
+      "freesound": 213509,
+      "name": {
+        "ru": "Стон зомби",
+        "en": "Zombie moan"
+      },
+      "category": "horror",
+      "tags": [
+        "zombie",
+        "зомби"
+      ]
+    },
+    {
+      "id": "bones-rattle",
+      "freesound": 202102,
+      "name": {
+        "ru": "Стук костей",
+        "en": "Rattling bones"
+      },
+      "category": "horror",
+      "tags": [
+        "skeleton",
+        "скелет"
+      ]
+    },
+    {
+      "id": "evil-laugh",
+      "freesound": 169826,
+      "name": {
+        "ru": "Зловещий смех",
+        "en": "Evil laugh"
+      },
+      "category": "horror",
+      "tags": [
+        "laugh",
+        "смех"
+      ]
+    },
+    {
+      "id": "graveyard-night",
+      "freesound": 159509,
+      "name": {
+        "ru": "Ночное кладбище",
+        "en": "Graveyard at night"
+      },
+      "category": "horror",
+      "tags": [
+        "grave",
+        "кладбище"
+      ]
+    },
+    {
+      "id": "ship-bell",
+      "freesound": 353232,
+      "name": {
+        "ru": "Корабельный колокол",
+        "en": "Ship's bell"
+      },
+      "category": "sea",
+      "tags": [
+        "bell",
+        "колокол"
+      ]
+    },
+    {
+      "id": "sails-flapping",
+      "freesound": 221090,
+      "name": {
+        "ru": "Хлопанье парусов",
+        "en": "Flapping sails"
+      },
+      "category": "sea",
+      "tags": [
+        "sail",
+        "паруса"
+      ]
+    },
+    {
+      "id": "big-splash",
+      "freesound": 442773,
+      "name": {
+        "ru": "Всплеск",
+        "en": "Big splash"
+      },
+      "category": "sea",
+      "tags": [
+        "water",
+        "вода"
+      ]
+    },
+    {
+      "id": "pipe-organ",
+      "freesound": 544386,
+      "name": {
+        "ru": "Орган",
+        "en": "Pipe organ"
+      },
+      "category": "temple",
+      "tags": [
+        "organ",
+        "орган"
+      ]
+    },
+    {
+      "id": "gentle-rain",
+      "freesound": 200273,
+      "name": {
+        "ru": "Тихий дождь",
+        "en": "Gentle rain"
+      },
+      "category": "weather",
+      "tags": [
+        "rain",
+        "дождь"
+      ]
+    },
+    {
+      "id": "earthquake",
+      "freesound": 222521,
+      "name": {
+        "ru": "Землетрясение",
+        "en": "Earthquake"
+      },
+      "category": "weather",
+      "tags": [
+        "rumble",
+        "гул"
+      ]
+    },
+    {
+      "id": "wind-in-trees",
+      "freesound": 331510,
+      "name": {
+        "ru": "Ветер в листве",
+        "en": "Wind in the trees"
+      },
+      "category": "nature",
+      "tags": [
+        "wind",
+        "ветер"
+      ]
+    },
+    {
+      "id": "footsteps-forest",
+      "freesound": 274833,
+      "name": {
+        "ru": "Шаги по лесу",
+        "en": "Walking in a forest"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "шаги"
+      ]
+    },
+    {
+      "id": "footsteps-snow",
+      "freesound": 613849,
+      "name": {
+        "ru": "Шаги по снегу",
+        "en": "Walking on snow"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "шаги"
       ]
     }
   ]

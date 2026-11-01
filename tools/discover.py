@@ -7,7 +7,7 @@
   берётся файл .ogg (или .mp3) не больше 15 МБ.
 
 Результат — tools/candidates.json. Лицензию каждого звука ещё раз проверяет build_catalog.py.
-Запуск: python tools/discover.py
+Запуск: python tools/discover.py [--no-music]
 """
 import html
 import json
@@ -150,7 +150,7 @@ def main() -> int:
         out_file.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 
     taken = {m["oga"] for m in out["music"]}
-    for wish in wishlist["music"]:
+    for wish in ([] if "--no-music" in sys.argv else wishlist["music"]):
         have = sum(1 for m in out["music"] if m["query"] == wish["q"])
         if have >= wish["n"]:
             continue
