@@ -1,6 +1,6 @@
 {
-  "release": "library-v3",
-  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v3/",
+  "release": "library-v4",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v4/",
   "categories": {
     "tavern": {
       "ru": "Таверна",
@@ -2105,6 +2105,729 @@
       "tags": [
         "footsteps",
         "шаги"
+      ]
+    },
+    {
+      "id": "bottle-uncork",
+      "freesound": 206152,
+      "name": {
+        "ru": "Хлопок винной пробки",
+        "en": "Wine cork pop"
+      },
+      "category": "tavern",
+      "tags": [
+        "wine",
+        "cork",
+        "вино"
+      ]
+    },
+    {
+      "id": "blade-sharpen",
+      "freesound": 236008,
+      "name": {
+        "ru": "Заточка клинка",
+        "en": "Sharpening a blade"
+      },
+      "category": "battle",
+      "tags": [
+        "steel",
+        "blade",
+        "клинок"
+      ]
+    },
+    {
+      "id": "knife-grindstone",
+      "freesound": 423443,
+      "name": {
+        "ru": "Нож на точильном камне",
+        "en": "Knife on a grindstone"
+      },
+      "category": "city",
+      "tags": [
+        "grindstone",
+        "workshop",
+        "мастерская"
+      ]
+    },
+    {
+      "id": "rope-tension",
+      "freesound": 664929,
+      "name": {
+        "ru": "Скрип натянутой верёвки",
+        "en": "Strained rope creak"
+      },
+      "category": "dungeon",
+      "tags": [
+        "rope",
+        "tension",
+        "скрип натянутой верёвки"
+      ]
+    },
+    {
+      "id": "flint-steel",
+      "freesound": 764961,
+      "name": {
+        "ru": "Высекание искры огнивом",
+        "en": "Striking flint and steel"
+      },
+      "category": "nature",
+      "tags": [
+        "flint",
+        "steel",
+        "высекание искры огнивом"
+      ]
+    },
+    {
+      "id": "shovel-dig",
+      "freesound": 487077,
+      "name": {
+        "ru": "Лопата в земле",
+        "en": "Digging with a shovel"
+      },
+      "category": "nature",
+      "tags": [
+        "shovel",
+        "dig",
+        "лопата в земле"
+      ]
+    },
+    {
+      "id": "horse-snort",
+      "freesound": 538697,
+      "name": {
+        "ru": "Фырканье лошади",
+        "en": "Horse snort"
+      },
+      "category": "creatures",
+      "tags": [
+        "horse",
+        "snort",
+        "фырканье лошади"
+      ]
+    },
+    {
+      "id": "forest-ravens",
+      "freesound": 835730,
+      "name": {
+        "ru": "Вороны в лесу: крики и взмахи крыльев",
+        "en": "Forest ravens calling and beating their wings"
+      },
+      "category": "nature",
+      "tags": [
+        "forest",
+        "ravens",
+        "вороны в лесу: крики и взмахи крыльев"
+      ]
+    },
+    {
+      "id": "field-woodpecker",
+      "freesound": 347047,
+      "name": {
+        "ru": "Дятел",
+        "en": "Woodpecker"
+      },
+      "category": "nature",
+      "tags": [
+        "woodpecker",
+        "дятел"
+      ]
+    },
+    {
+      "id": "field-cicadas",
+      "freesound": 320113,
+      "name": {
+        "ru": "Цикады",
+        "en": "Cicadas"
+      },
+      "category": "nature",
+      "tags": [
+        "cicadas",
+        "цикады"
+      ]
+    },
+    {
+      "id": "field-brook",
+      "freesound": 583754,
+      "name": {
+        "ru": "Ручей",
+        "en": "Brook"
+      },
+      "category": "nature",
+      "tags": [
+        "brook",
+        "ручей"
+      ]
+    },
+    {
+      "id": "field-donkey",
+      "freesound": 246406,
+      "name": {
+        "ru": "Осёл",
+        "en": "Donkey"
+      },
+      "category": "creatures",
+      "tags": [
+        "donkey",
+        "осёл"
+      ]
+    },
+    {
+      "id": "field-rooster",
+      "freesound": 435508,
+      "name": {
+        "ru": "Петух",
+        "en": "Rooster"
+      },
+      "category": "creatures",
+      "tags": [
+        "rooster",
+        "петух"
+      ]
+    },
+    {
+      "id": "field-goose",
+      "freesound": 137764,
+      "name": {
+        "ru": "Гусь",
+        "en": "Goose"
+      },
+      "category": "creatures",
+      "tags": [
+        "goose",
+        "гусь"
+      ]
+    },
+    {
+      "id": "field-geese",
+      "freesound": 204337,
+      "name": {
+        "ru": "Гуси",
+        "en": "Geese"
+      },
+      "category": "creatures",
+      "tags": [
+        "geese",
+        "гуси"
+      ]
+    },
+    {
+      "id": "field-sheep",
+      "freesound": 138424,
+      "name": {
+        "ru": "Овцы",
+        "en": "Sheep"
+      },
+      "category": "creatures",
+      "tags": [
+        "sheep",
+        "овцы"
+      ]
+    },
+    {
+      "id": "field-goat",
+      "freesound": 66762,
+      "name": {
+        "ru": "Коза",
+        "en": "Goat"
+      },
+      "category": "creatures",
+      "tags": [
+        "goat",
+        "коза"
+      ]
+    },
+    {
+      "id": "field-pig-grunt",
+      "freesound": 158746,
+      "name": {
+        "ru": "Хрюканье свиньи",
+        "en": "Pig Grunt"
+      },
+      "category": "creatures",
+      "tags": [
+        "pig",
+        "grunt",
+        "хрюканье свиньи"
+      ]
+    },
+    {
+      "id": "field-cow-moo",
+      "freesound": 163727,
+      "name": {
+        "ru": "Мычание коровы",
+        "en": "Cow Moo"
+      },
+      "category": "creatures",
+      "tags": [
+        "cow",
+        "moo",
+        "мычание коровы"
+      ]
+    },
+    {
+      "id": "field-dog-growl",
+      "freesound": 404920,
+      "name": {
+        "ru": "Рычание собаки",
+        "en": "Dog Growl"
+      },
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "growl",
+        "рычание собаки"
+      ]
+    },
+    {
+      "id": "field-dog-bark",
+      "freesound": 180977,
+      "name": {
+        "ru": "Лай собаки",
+        "en": "Dog Bark"
+      },
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "bark",
+        "лай собаки"
+      ]
+    },
+    {
+      "id": "field-cat-hiss",
+      "freesound": 146963,
+      "name": {
+        "ru": "Шипение кошки",
+        "en": "Cat Hiss"
+      },
+      "category": "creatures",
+      "tags": [
+        "cat",
+        "hiss",
+        "шипение кошки"
+      ]
+    },
+    {
+      "id": "field-cat-purr",
+      "freesound": 234333,
+      "name": {
+        "ru": "Мурлыканье кошки",
+        "en": "Cat Purr"
+      },
+      "category": "creatures",
+      "tags": [
+        "cat",
+        "purr",
+        "мурлыканье кошки"
+      ]
+    },
+    {
+      "id": "field-bee-swarm",
+      "freesound": 553728,
+      "name": {
+        "ru": "Пчелиный рой",
+        "en": "Bee Swarm"
+      },
+      "category": "creatures",
+      "tags": [
+        "bee",
+        "swarm",
+        "пчелиный рой"
+      ]
+    },
+    {
+      "id": "field-mosquito",
+      "freesound": 662970,
+      "name": {
+        "ru": "Комар",
+        "en": "Mosquito"
+      },
+      "category": "creatures",
+      "tags": [
+        "mosquito",
+        "комар"
+      ]
+    },
+    {
+      "id": "field-nightingale",
+      "freesound": 521035,
+      "name": {
+        "ru": "Соловей",
+        "en": "Nightingale"
+      },
+      "category": "nature",
+      "tags": [
+        "nightingale",
+        "соловей"
+      ]
+    },
+    {
+      "id": "field-cuckoo",
+      "freesound": 462930,
+      "name": {
+        "ru": "Часы с кукушкой: полдень",
+        "en": "Cuckoo clock striking twelve"
+      },
+      "category": "city",
+      "tags": [
+        "clock",
+        "часы"
+      ]
+    },
+    {
+      "id": "field-loon",
+      "freesound": 39339,
+      "name": {
+        "ru": "Гагара",
+        "en": "Loon"
+      },
+      "category": "nature",
+      "tags": [
+        "loon",
+        "гагара"
+      ]
+    },
+    {
+      "id": "field-wood-pigeon",
+      "freesound": 607224,
+      "name": {
+        "ru": "Лесной голубь",
+        "en": "Wood Pigeon"
+      },
+      "category": "nature",
+      "tags": [
+        "wood",
+        "pigeon",
+        "лесной голубь"
+      ]
+    },
+    {
+      "id": "field-toad",
+      "freesound": 135561,
+      "name": {
+        "ru": "Жаба",
+        "en": "Toad"
+      },
+      "category": "nature",
+      "tags": [
+        "toad",
+        "жаба"
+      ]
+    },
+    {
+      "id": "field-bullfrog",
+      "freesound": 825646,
+      "name": {
+        "ru": "Лягушка-бык",
+        "en": "Bullfrog"
+      },
+      "category": "nature",
+      "tags": [
+        "bullfrog",
+        "лягушка-бык"
+      ]
+    },
+    {
+      "id": "field-ice-cracking",
+      "freesound": 452645,
+      "name": {
+        "ru": "Треск льда",
+        "en": "Ice Cracking"
+      },
+      "category": "nature",
+      "tags": [
+        "ice",
+        "cracking",
+        "треск льда"
+      ]
+    },
+    {
+      "id": "field-avalanche",
+      "freesound": 457528,
+      "name": {
+        "ru": "Лавина",
+        "en": "Avalanche"
+      },
+      "category": "nature",
+      "tags": [
+        "avalanche",
+        "лавина"
+      ]
+    },
+    {
+      "id": "field-geyser",
+      "freesound": 441152,
+      "name": {
+        "ru": "Гейзер",
+        "en": "Geyser"
+      },
+      "category": "nature",
+      "tags": [
+        "geyser",
+        "гейзер"
+      ]
+    },
+    {
+      "id": "field-whale-song",
+      "freesound": 684188,
+      "name": {
+        "ru": "Пение китов",
+        "en": "Whale Song"
+      },
+      "category": "sea",
+      "tags": [
+        "whale",
+        "song",
+        "пение китов"
+      ]
+    },
+    {
+      "id": "field-pebbles-waves",
+      "freesound": 162226,
+      "name": {
+        "ru": "Волны на гальке",
+        "en": "Pebbles Waves"
+      },
+      "category": "sea",
+      "tags": [
+        "pebbles",
+        "waves",
+        "волны на гальке"
+      ]
+    },
+    {
+      "id": "field-anchor-chain",
+      "freesound": 347837,
+      "name": {
+        "ru": "Якорная цепь",
+        "en": "Anchor Chain"
+      },
+      "category": "sea",
+      "tags": [
+        "anchor",
+        "chain",
+        "якорная цепь"
+      ]
+    },
+    {
+      "id": "field-footsteps-mud",
+      "freesound": 231317,
+      "name": {
+        "ru": "Шаги по грязи",
+        "en": "Footsteps Mud"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "mud",
+        "шаги по грязи"
+      ]
+    },
+    {
+      "id": "field-footsteps-sand",
+      "freesound": 383490,
+      "name": {
+        "ru": "Шаги по песку",
+        "en": "Footsteps Sand"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "sand",
+        "шаги по песку"
+      ]
+    },
+    {
+      "id": "field-footsteps-leaves",
+      "freesound": 218305,
+      "name": {
+        "ru": "Шаги по листьям",
+        "en": "Footsteps Leaves"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "leaves",
+        "шаги по листьям"
+      ]
+    },
+    {
+      "id": "field-footsteps-water",
+      "freesound": 369580,
+      "name": {
+        "ru": "Шаги по воде",
+        "en": "Footsteps Water"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "water",
+        "шаги по воде"
+      ]
+    },
+    {
+      "id": "field-horse-walking",
+      "freesound": 437108,
+      "name": {
+        "ru": "Лошадь идёт шагом",
+        "en": "Horse Walking"
+      },
+      "category": "travel",
+      "tags": [
+        "horse",
+        "walking",
+        "лошадь идёт шагом"
+      ]
+    },
+    {
+      "id": "field-glass-breaking",
+      "freesound": 159197,
+      "name": {
+        "ru": "Разбитое стекло",
+        "en": "Glass Breaking"
+      },
+      "category": "tavern",
+      "tags": [
+        "glass",
+        "breaking",
+        "разбитое стекло"
+      ]
+    },
+    {
+      "id": "field-cutlery",
+      "freesound": 237379,
+      "name": {
+        "ru": "Столовые приборы",
+        "en": "Cutlery"
+      },
+      "category": "tavern",
+      "tags": [
+        "cutlery",
+        "столовые приборы"
+      ]
+    },
+    {
+      "id": "field-bread-slicing",
+      "freesound": 142299,
+      "name": {
+        "ru": "Нарезание хлеба",
+        "en": "Bread Slicing"
+      },
+      "category": "tavern",
+      "tags": [
+        "bread",
+        "slicing",
+        "нарезание хлеба"
+      ]
+    },
+    {
+      "id": "field-frying-pan",
+      "freesound": 383678,
+      "name": {
+        "ru": "Сковорода",
+        "en": "Frying Pan"
+      },
+      "category": "tavern",
+      "tags": [
+        "frying",
+        "pan",
+        "сковорода"
+      ]
+    },
+    {
+      "id": "crossbow-shot",
+      "freesound": 163453,
+      "name": {
+        "ru": "Выстрел арбалета",
+        "en": "Crossbow shot"
+      },
+      "category": "battle",
+      "tags": [
+        "crossbow",
+        "shot",
+        "выстрел арбалета"
+      ]
+    },
+    {
+      "id": "field-kettle-boiling",
+      "freesound": 141677,
+      "name": {
+        "ru": "Кипящий чайник",
+        "en": "Kettle Boiling"
+      },
+      "category": "tavern",
+      "tags": [
+        "kettle",
+        "boiling",
+        "кипящий чайник"
+      ]
+    },
+    {
+      "id": "field-spinning-wheel",
+      "freesound": 386712,
+      "name": {
+        "ru": "Прялка",
+        "en": "Spinning Wheel"
+      },
+      "category": "city",
+      "tags": [
+        "spinning",
+        "wheel",
+        "прялка"
+      ]
+    },
+    {
+      "id": "whip-crack",
+      "freesound": 841380,
+      "name": {
+        "ru": "Щелчок кнута",
+        "en": "Whip crack"
+      },
+      "category": "battle",
+      "tags": [
+        "whip",
+        "crack",
+        "щелчок кнута"
+      ]
+    },
+    {
+      "id": "field-scissors",
+      "freesound": 795697,
+      "name": {
+        "ru": "Ножницы",
+        "en": "Scissors"
+      },
+      "category": "city",
+      "tags": [
+        "scissors",
+        "ножницы"
+      ]
+    },
+    {
+      "id": "field-broom-sweeping",
+      "freesound": 138067,
+      "name": {
+        "ru": "Подметание метлой",
+        "en": "Broom Sweeping"
+      },
+      "category": "city",
+      "tags": [
+        "broom",
+        "sweeping",
+        "подметание метлой"
+      ]
+    },
+    {
+      "id": "field-filing-metal",
+      "freesound": 414030,
+      "name": {
+        "ru": "Напильник по металлу",
+        "en": "Filing Metal"
+      },
+      "category": "city",
+      "tags": [
+        "filing",
+        "metal",
+        "напильник по металлу"
       ]
     }
   ]

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "release": "library-v3",
-  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v3/",
+  "release": "library-v4",
+  "assetsBaseUrl": "https://github.com/unlawfulness/catroll-sounds/releases/download/library-v4/",
   "categories": {
     "tavern": {
       "ru": "Таверна",
@@ -3698,6 +3698,1312 @@
         "author": "Nox_Sound",
         "title": "Footsteps_Mountain_Boots_Snow_Walk_Mono.wav",
         "url": "https://freesound.org/s/613849/"
+      }
+    },
+    {
+      "id": "bottle-uncork",
+      "name": {
+        "ru": "Хлопок винной пробки",
+        "en": "Wine cork pop"
+      },
+      "category": "tavern",
+      "tags": [
+        "wine",
+        "cork",
+        "вино"
+      ],
+      "duration": 0.6,
+      "size": 9095,
+      "format": "ogg",
+      "loop": false,
+      "file": "bottle-uncork.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "ahill86",
+        "title": "bottlepop44.wav",
+        "url": "https://freesound.org/s/206152/"
+      }
+    },
+    {
+      "id": "blade-sharpen",
+      "name": {
+        "ru": "Заточка клинка",
+        "en": "Sharpening a blade"
+      },
+      "category": "battle",
+      "tags": [
+        "steel",
+        "blade",
+        "клинок"
+      ],
+      "duration": 24.6,
+      "size": 532728,
+      "format": "ogg",
+      "loop": false,
+      "file": "blade-sharpen.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Sclolex",
+        "title": "SharpeningBlade.wav",
+        "url": "https://freesound.org/s/236008/"
+      }
+    },
+    {
+      "id": "knife-grindstone",
+      "name": {
+        "ru": "Нож на точильном камне",
+        "en": "Knife on a grindstone"
+      },
+      "category": "city",
+      "tags": [
+        "grindstone",
+        "workshop",
+        "мастерская"
+      ],
+      "duration": 10.2,
+      "size": 325125,
+      "format": "ogg",
+      "loop": false,
+      "file": "knife-grindstone.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "florianreichelt",
+        "title": "Sound of someone sharping his metal knife on a grindstone",
+        "url": "https://freesound.org/s/423443/"
+      }
+    },
+    {
+      "id": "rope-tension",
+      "name": {
+        "ru": "Скрип натянутой верёвки",
+        "en": "Strained rope creak"
+      },
+      "category": "dungeon",
+      "tags": [
+        "rope",
+        "tension",
+        "скрип натянутой верёвки"
+      ],
+      "duration": 5.4,
+      "size": 59911,
+      "format": "ogg",
+      "loop": false,
+      "file": "rope-tension.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "vestibule-door",
+        "title": "rope leathery creaking.wav",
+        "url": "https://freesound.org/s/664929/"
+      }
+    },
+    {
+      "id": "flint-steel",
+      "name": {
+        "ru": "Высекание искры огнивом",
+        "en": "Striking flint and steel"
+      },
+      "category": "nature",
+      "tags": [
+        "flint",
+        "steel",
+        "высекание искры огнивом"
+      ],
+      "duration": 5.9,
+      "size": 127193,
+      "format": "ogg",
+      "loop": false,
+      "file": "flint-steel.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Christian.Combrinck",
+        "title": "Flint and steel fire starter",
+        "url": "https://freesound.org/s/764961/"
+      }
+    },
+    {
+      "id": "shovel-dig",
+      "name": {
+        "ru": "Лопата в земле",
+        "en": "Digging with a shovel"
+      },
+      "category": "nature",
+      "tags": [
+        "shovel",
+        "dig",
+        "лопата в земле"
+      ],
+      "duration": 34.7,
+      "size": 351422,
+      "format": "ogg",
+      "loop": false,
+      "file": "shovel-dig.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "craigsmith",
+        "title": "R08-57-Digging with Shovel.wav",
+        "url": "https://freesound.org/s/487077/"
+      }
+    },
+    {
+      "id": "horse-snort",
+      "name": {
+        "ru": "Фырканье лошади",
+        "en": "Horse snort"
+      },
+      "category": "creatures",
+      "tags": [
+        "horse",
+        "snort",
+        "фырканье лошади"
+      ],
+      "duration": 10.1,
+      "size": 242554,
+      "format": "ogg",
+      "loop": false,
+      "file": "horse-snort.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "bruno.auzet",
+        "title": "horse snort.wav",
+        "url": "https://freesound.org/s/538697/"
+      }
+    },
+    {
+      "id": "forest-ravens",
+      "name": {
+        "ru": "Вороны в лесу: крики и взмахи крыльев",
+        "en": "Forest ravens calling and beating their wings"
+      },
+      "category": "nature",
+      "tags": [
+        "forest",
+        "ravens",
+        "вороны в лесу: крики и взмахи крыльев"
+      ],
+      "duration": 216.7,
+      "size": 5191023,
+      "format": "ogg",
+      "loop": false,
+      "file": "forest-ravens.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "CVLTIV8R",
+        "title": "Ravens in Redwoods Forest, Caws, Wings Batting, Spectral Isolated",
+        "url": "https://freesound.org/s/835730/"
+      }
+    },
+    {
+      "id": "field-woodpecker",
+      "name": {
+        "ru": "Дятел",
+        "en": "Woodpecker"
+      },
+      "category": "nature",
+      "tags": [
+        "woodpecker",
+        "дятел"
+      ],
+      "duration": 34.1,
+      "size": 838430,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-woodpecker.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "johnaudiotech",
+        "title": "Woodpecker",
+        "url": "https://freesound.org/s/347047/"
+      }
+    },
+    {
+      "id": "field-cicadas",
+      "name": {
+        "ru": "Цикады",
+        "en": "Cicadas"
+      },
+      "category": "nature",
+      "tags": [
+        "cicadas",
+        "цикады"
+      ],
+      "duration": 41.5,
+      "size": 759999,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-cicadas.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "laughatlantic",
+        "title": "cicadas.wav",
+        "url": "https://freesound.org/s/320113/"
+      }
+    },
+    {
+      "id": "field-brook",
+      "name": {
+        "ru": "Ручей",
+        "en": "Brook"
+      },
+      "category": "nature",
+      "tags": [
+        "brook",
+        "ручей"
+      ],
+      "duration": 68.3,
+      "size": 1120462,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-brook.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Bia12",
+        "title": "brook.mp3",
+        "url": "https://freesound.org/s/583754/"
+      }
+    },
+    {
+      "id": "field-donkey",
+      "name": {
+        "ru": "Осёл",
+        "en": "Donkey"
+      },
+      "category": "creatures",
+      "tags": [
+        "donkey",
+        "осёл"
+      ],
+      "duration": 86.7,
+      "size": 1815941,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-donkey.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "felix.blume",
+        "title": "Donkeys braying at the market of Assem Souk",
+        "url": "https://freesound.org/s/246406/"
+      }
+    },
+    {
+      "id": "field-rooster",
+      "name": {
+        "ru": "Петух",
+        "en": "Rooster"
+      },
+      "category": "creatures",
+      "tags": [
+        "rooster",
+        "петух"
+      ],
+      "duration": 2.2,
+      "size": 59033,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-rooster.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "BenjaminNelan",
+        "title": "Rooster Crow 1",
+        "url": "https://freesound.org/s/435508/"
+      }
+    },
+    {
+      "id": "field-goose",
+      "name": {
+        "ru": "Гусь",
+        "en": "Goose"
+      },
+      "category": "creatures",
+      "tags": [
+        "goose",
+        "гусь"
+      ],
+      "duration": 14.9,
+      "size": 350270,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-goose.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "helupema",
+        "title": "goose.aiff",
+        "url": "https://freesound.org/s/137764/"
+      }
+    },
+    {
+      "id": "field-geese",
+      "name": {
+        "ru": "Гуси",
+        "en": "Geese"
+      },
+      "category": "creatures",
+      "tags": [
+        "geese",
+        "гуси"
+      ],
+      "duration": 12.7,
+      "size": 291725,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-geese.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "wjoojoo",
+        "title": "cibolo_geese09.wav",
+        "url": "https://freesound.org/s/204337/"
+      }
+    },
+    {
+      "id": "field-sheep",
+      "name": {
+        "ru": "Овцы",
+        "en": "Sheep"
+      },
+      "category": "creatures",
+      "tags": [
+        "sheep",
+        "овцы"
+      ],
+      "duration": 120.5,
+      "size": 2990051,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-sheep.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "felix.blume",
+        "title": "Sheep in a field on the top of a mountain in Bask Country",
+        "url": "https://freesound.org/s/138424/"
+      }
+    },
+    {
+      "id": "field-goat",
+      "name": {
+        "ru": "Коза",
+        "en": "Goat"
+      },
+      "category": "creatures",
+      "tags": [
+        "goat",
+        "коза"
+      ],
+      "duration": 49.5,
+      "size": 1002251,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-goat.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Bidone",
+        "title": "Goat.mp3",
+        "url": "https://freesound.org/s/66762/"
+      }
+    },
+    {
+      "id": "field-pig-grunt",
+      "name": {
+        "ru": "Хрюканье свиньи",
+        "en": "Pig Grunt"
+      },
+      "category": "creatures",
+      "tags": [
+        "pig",
+        "grunt",
+        "хрюканье свиньи"
+      ],
+      "duration": 122.8,
+      "size": 2054710,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-pig-grunt.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "felix.blume",
+        "title": "A pig grunting, grumbling and falling asleep (France, Limousin)",
+        "url": "https://freesound.org/s/158746/"
+      }
+    },
+    {
+      "id": "field-cow-moo",
+      "name": {
+        "ru": "Мычание коровы",
+        "en": "Cow Moo"
+      },
+      "category": "creatures",
+      "tags": [
+        "cow",
+        "moo",
+        "мычание коровы"
+      ],
+      "duration": 15.4,
+      "size": 329105,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-cow-moo.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "felix.blume",
+        "title": "Cow mooing in south of France (Limousin)",
+        "url": "https://freesound.org/s/163727/"
+      }
+    },
+    {
+      "id": "field-dog-growl",
+      "name": {
+        "ru": "Рычание собаки",
+        "en": "Dog Growl"
+      },
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "growl",
+        "рычание собаки"
+      ],
+      "duration": 80.9,
+      "size": 1028881,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-dog-growl.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "coldvet",
+        "title": "Dog Growl - Beast / Creature",
+        "url": "https://freesound.org/s/404920/"
+      }
+    },
+    {
+      "id": "field-dog-bark",
+      "name": {
+        "ru": "Лай собаки",
+        "en": "Dog Bark"
+      },
+      "category": "creatures",
+      "tags": [
+        "dog",
+        "bark",
+        "лай собаки"
+      ],
+      "duration": 27.6,
+      "size": 721073,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-dog-bark.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "SuperStudioBR",
+        "title": "Barking Dog",
+        "url": "https://freesound.org/s/180977/"
+      }
+    },
+    {
+      "id": "field-cat-hiss",
+      "name": {
+        "ru": "Шипение кошки",
+        "en": "Cat Hiss"
+      },
+      "category": "creatures",
+      "tags": [
+        "cat",
+        "hiss",
+        "шипение кошки"
+      ],
+      "duration": 1.5,
+      "size": 22855,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-cat-hiss.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Zabuhailo",
+        "title": "catHisses1.wav",
+        "url": "https://freesound.org/s/146963/"
+      }
+    },
+    {
+      "id": "field-cat-purr",
+      "name": {
+        "ru": "Мурлыканье кошки",
+        "en": "Cat Purr"
+      },
+      "category": "creatures",
+      "tags": [
+        "cat",
+        "purr",
+        "мурлыканье кошки"
+      ],
+      "duration": 31.9,
+      "size": 357015,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-cat-purr.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "mcroce",
+        "title": "Cat Meow and Purr",
+        "url": "https://freesound.org/s/234333/"
+      }
+    },
+    {
+      "id": "field-bee-swarm",
+      "name": {
+        "ru": "Пчелиный рой",
+        "en": "Bee Swarm"
+      },
+      "category": "creatures",
+      "tags": [
+        "bee",
+        "swarm",
+        "пчелиный рой"
+      ],
+      "duration": 67.0,
+      "size": 1138640,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-bee-swarm.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Globofonia",
+        "title": "Swarm of bees",
+        "url": "https://freesound.org/s/553728/"
+      }
+    },
+    {
+      "id": "field-mosquito",
+      "name": {
+        "ru": "Комар",
+        "en": "Mosquito"
+      },
+      "category": "creatures",
+      "tags": [
+        "mosquito",
+        "комар"
+      ],
+      "duration": 14.9,
+      "size": 162639,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-mosquito.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "IanFSA",
+        "title": "Mosquito 1 Edit.wav",
+        "url": "https://freesound.org/s/662970/"
+      }
+    },
+    {
+      "id": "field-nightingale",
+      "name": {
+        "ru": "Соловей",
+        "en": "Nightingale"
+      },
+      "category": "nature",
+      "tags": [
+        "nightingale",
+        "соловей"
+      ],
+      "duration": 122.6,
+      "size": 2804660,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-nightingale.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "smand",
+        "title": "Nightingale Song",
+        "url": "https://freesound.org/s/521035/"
+      }
+    },
+    {
+      "id": "field-cuckoo",
+      "name": {
+        "ru": "Часы с кукушкой: полдень",
+        "en": "Cuckoo clock striking twelve"
+      },
+      "category": "city",
+      "tags": [
+        "clock",
+        "часы"
+      ],
+      "duration": 14.1,
+      "size": 282249,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-cuckoo.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "DiArchangeli",
+        "title": "Cuckoo Clock Chimes 12.aif",
+        "url": "https://freesound.org/s/462930/"
+      }
+    },
+    {
+      "id": "field-loon",
+      "name": {
+        "ru": "Гагара",
+        "en": "Loon"
+      },
+      "category": "nature",
+      "tags": [
+        "loon",
+        "гагара"
+      ],
+      "duration": 168.0,
+      "size": 2935552,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-loon.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "stackpool",
+        "title": "loonsnippets.ogg",
+        "url": "https://freesound.org/s/39339/"
+      }
+    },
+    {
+      "id": "field-wood-pigeon",
+      "name": {
+        "ru": "Лесной голубь",
+        "en": "Wood Pigeon"
+      },
+      "category": "nature",
+      "tags": [
+        "wood",
+        "pigeon",
+        "лесной голубь"
+      ],
+      "duration": 3.1,
+      "size": 56341,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-wood-pigeon.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "D4XX",
+        "title": "Wood Pigeon Call",
+        "url": "https://freesound.org/s/607224/"
+      }
+    },
+    {
+      "id": "field-toad",
+      "name": {
+        "ru": "Жаба",
+        "en": "Toad"
+      },
+      "category": "nature",
+      "tags": [
+        "toad",
+        "жаба"
+      ],
+      "duration": 60.4,
+      "size": 1805813,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-toad.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "felix.blume",
+        "title": "Toads and frogs are singing at night in the pond, in the center of the small village of Diafarabe, on the Niger river. (Africa, Mali)",
+        "url": "https://freesound.org/s/135561/"
+      }
+    },
+    {
+      "id": "field-bullfrog",
+      "name": {
+        "ru": "Лягушка-бык",
+        "en": "Bullfrog"
+      },
+      "category": "nature",
+      "tags": [
+        "bullfrog",
+        "лягушка-бык"
+      ],
+      "duration": 192.0,
+      "size": 3280188,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-bullfrog.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "ChristmasKrumble666",
+        "title": "Bullfrog Ballpit.wav",
+        "url": "https://freesound.org/s/825646/"
+      }
+    },
+    {
+      "id": "field-ice-cracking",
+      "name": {
+        "ru": "Треск льда",
+        "en": "Ice Cracking"
+      },
+      "category": "nature",
+      "tags": [
+        "ice",
+        "cracking",
+        "треск льда"
+      ],
+      "duration": 7.0,
+      "size": 155399,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-ice-cracking.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "kyles",
+        "title": "ice grinding cracking freezing designed.wav",
+        "url": "https://freesound.org/s/452645/"
+      }
+    },
+    {
+      "id": "field-avalanche",
+      "name": {
+        "ru": "Лавина",
+        "en": "Avalanche"
+      },
+      "category": "nature",
+      "tags": [
+        "avalanche",
+        "лавина"
+      ],
+      "duration": 2.3,
+      "size": 75235,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-avalanche.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Breviceps",
+        "title": "Avalanche Hit",
+        "url": "https://freesound.org/s/457528/"
+      }
+    },
+    {
+      "id": "field-geyser",
+      "name": {
+        "ru": "Гейзер",
+        "en": "Geyser"
+      },
+      "category": "nature",
+      "tags": [
+        "geyser",
+        "гейзер"
+      ],
+      "duration": 83.3,
+      "size": 2236113,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-geyser.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "keng-wai-chane-chick-te",
+        "title": "GEYSER_SOLDEMANANA_BOLIVIA.wav",
+        "url": "https://freesound.org/s/441152/"
+      }
+    },
+    {
+      "id": "field-whale-song",
+      "name": {
+        "ru": "Пение китов",
+        "en": "Whale Song"
+      },
+      "category": "sea",
+      "tags": [
+        "whale",
+        "song",
+        "пение китов"
+      ],
+      "duration": 10.2,
+      "size": 197265,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-whale-song.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "muri_kuri",
+        "title": "whale song",
+        "url": "https://freesound.org/s/684188/"
+      }
+    },
+    {
+      "id": "field-pebbles-waves",
+      "name": {
+        "ru": "Волны на гальке",
+        "en": "Pebbles Waves"
+      },
+      "category": "sea",
+      "tags": [
+        "pebbles",
+        "waves",
+        "волны на гальке"
+      ],
+      "duration": 37.5,
+      "size": 824373,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-pebbles-waves.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "surrey_film",
+        "title": "Waves on pebbles CU with Ciccadas BG",
+        "url": "https://freesound.org/s/162226/"
+      }
+    },
+    {
+      "id": "field-anchor-chain",
+      "name": {
+        "ru": "Якорная цепь",
+        "en": "Anchor Chain"
+      },
+      "category": "sea",
+      "tags": [
+        "anchor",
+        "chain",
+        "якорная цепь"
+      ],
+      "duration": 27.9,
+      "size": 660950,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-anchor-chain.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "fennelliott",
+        "title": "anchor and chain.wav",
+        "url": "https://freesound.org/s/347837/"
+      }
+    },
+    {
+      "id": "field-footsteps-mud",
+      "name": {
+        "ru": "Шаги по грязи",
+        "en": "Footsteps Mud"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "mud",
+        "шаги по грязи"
+      ],
+      "duration": 15.0,
+      "size": 221682,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-footsteps-mud.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "jonccox",
+        "title": "Footsteps-Mud&Grass",
+        "url": "https://freesound.org/s/231317/"
+      }
+    },
+    {
+      "id": "field-footsteps-sand",
+      "name": {
+        "ru": "Шаги по песку",
+        "en": "Footsteps Sand"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "sand",
+        "шаги по песку"
+      ],
+      "duration": 74.9,
+      "size": 1711951,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-footsteps-sand.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Daphne_in_Wonderland",
+        "title": "Footsteps on sand.wav",
+        "url": "https://freesound.org/s/383490/"
+      }
+    },
+    {
+      "id": "field-footsteps-leaves",
+      "name": {
+        "ru": "Шаги по листьям",
+        "en": "Footsteps Leaves"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "leaves",
+        "шаги по листьям"
+      ],
+      "duration": 99.7,
+      "size": 1360197,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-footsteps-leaves.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "SpliceSound",
+        "title": "01-20 Footsteps, sneakers on dry leaves.wav",
+        "url": "https://freesound.org/s/218305/"
+      }
+    },
+    {
+      "id": "field-footsteps-water",
+      "name": {
+        "ru": "Шаги по воде",
+        "en": "Footsteps Water"
+      },
+      "category": "travel",
+      "tags": [
+        "footsteps",
+        "water",
+        "шаги по воде"
+      ],
+      "duration": 12.8,
+      "size": 405507,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-footsteps-water.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "Adielees9",
+        "title": "Slow Water Footsteps",
+        "url": "https://freesound.org/s/369580/"
+      }
+    },
+    {
+      "id": "field-horse-walking",
+      "name": {
+        "ru": "Лошадь идёт шагом",
+        "en": "Horse Walking"
+      },
+      "category": "travel",
+      "tags": [
+        "horse",
+        "walking",
+        "лошадь идёт шагом"
+      ],
+      "duration": 62.6,
+      "size": 805419,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-horse-walking.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "craigsmith",
+        "title": "G38-13-Group of Horses Walking.wav",
+        "url": "https://freesound.org/s/437108/"
+      }
+    },
+    {
+      "id": "field-glass-breaking",
+      "name": {
+        "ru": "Разбитое стекло",
+        "en": "Glass Breaking"
+      },
+      "category": "tavern",
+      "tags": [
+        "glass",
+        "breaking",
+        "разбитое стекло"
+      ],
+      "duration": 10.0,
+      "size": 225425,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-glass-breaking.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "justBrando",
+        "title": "Glass breaking.mp3",
+        "url": "https://freesound.org/s/159197/"
+      }
+    },
+    {
+      "id": "field-cutlery",
+      "name": {
+        "ru": "Столовые приборы",
+        "en": "Cutlery"
+      },
+      "category": "tavern",
+      "tags": [
+        "cutlery",
+        "столовые приборы"
+      ],
+      "duration": 2.1,
+      "size": 26582,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-cutlery.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "squareal",
+        "title": "Cutlery Drawer Closing 01",
+        "url": "https://freesound.org/s/237379/"
+      }
+    },
+    {
+      "id": "field-bread-slicing",
+      "name": {
+        "ru": "Нарезание хлеба",
+        "en": "Bread Slicing"
+      },
+      "category": "tavern",
+      "tags": [
+        "bread",
+        "slicing",
+        "нарезание хлеба"
+      ],
+      "duration": 5.0,
+      "size": 38836,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-bread-slicing.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "fryzu82",
+        "title": "bread slicing.wav",
+        "url": "https://freesound.org/s/142299/"
+      }
+    },
+    {
+      "id": "field-frying-pan",
+      "name": {
+        "ru": "Сковорода",
+        "en": "Frying Pan"
+      },
+      "category": "tavern",
+      "tags": [
+        "frying",
+        "pan",
+        "сковорода"
+      ],
+      "duration": 61.2,
+      "size": 863583,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-frying-pan.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "deleted_user_7146007",
+        "title": "Food Cooking in Frying Pan",
+        "url": "https://freesound.org/s/383678/"
+      }
+    },
+    {
+      "id": "crossbow-shot",
+      "name": {
+        "ru": "Выстрел арбалета",
+        "en": "Crossbow shot"
+      },
+      "category": "battle",
+      "tags": [
+        "crossbow",
+        "shot",
+        "выстрел арбалета"
+      ],
+      "duration": 0.2,
+      "size": 8626,
+      "format": "ogg",
+      "loop": false,
+      "file": "crossbow-shot.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "LeMudCrab",
+        "title": "Crossbow Shot",
+        "url": "https://freesound.org/s/163453/"
+      }
+    },
+    {
+      "id": "field-kettle-boiling",
+      "name": {
+        "ru": "Кипящий чайник",
+        "en": "Kettle Boiling"
+      },
+      "category": "tavern",
+      "tags": [
+        "kettle",
+        "boiling",
+        "кипящий чайник"
+      ],
+      "duration": 149.5,
+      "size": 2850132,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-kettle-boiling.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "DJ Burnham",
+        "title": "Boiling a kettle.aif",
+        "url": "https://freesound.org/s/141677/"
+      }
+    },
+    {
+      "id": "field-spinning-wheel",
+      "name": {
+        "ru": "Прялка",
+        "en": "Spinning Wheel"
+      },
+      "category": "city",
+      "tags": [
+        "spinning",
+        "wheel",
+        "прялка"
+      ],
+      "duration": 4.5,
+      "size": 74051,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-spinning-wheel.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "tommy_mooney",
+        "title": "spinning wheel.wav",
+        "url": "https://freesound.org/s/386712/"
+      }
+    },
+    {
+      "id": "whip-crack",
+      "name": {
+        "ru": "Щелчок кнута",
+        "en": "Whip crack"
+      },
+      "category": "battle",
+      "tags": [
+        "whip",
+        "crack",
+        "щелчок кнута"
+      ],
+      "duration": 1.0,
+      "size": 33886,
+      "format": "ogg",
+      "loop": false,
+      "file": "whip-crack.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "modusmogulus",
+        "title": "Whip Sound Effect",
+        "url": "https://freesound.org/s/841380/"
+      }
+    },
+    {
+      "id": "field-scissors",
+      "name": {
+        "ru": "Ножницы",
+        "en": "Scissors"
+      },
+      "category": "city",
+      "tags": [
+        "scissors",
+        "ножницы"
+      ],
+      "duration": 5.7,
+      "size": 71681,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-scissors.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "randbsoundbites",
+        "title": "Scissors 2",
+        "url": "https://freesound.org/s/795697/"
+      }
+    },
+    {
+      "id": "field-broom-sweeping",
+      "name": {
+        "ru": "Подметание метлой",
+        "en": "Broom Sweeping"
+      },
+      "category": "city",
+      "tags": [
+        "broom",
+        "sweeping",
+        "подметание метлой"
+      ],
+      "duration": 23.9,
+      "size": 417151,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-broom-sweeping.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "daboy291",
+        "title": "sweeping_tile_floor_with_broom.wav",
+        "url": "https://freesound.org/s/138067/"
+      }
+    },
+    {
+      "id": "field-filing-metal",
+      "name": {
+        "ru": "Напильник по металлу",
+        "en": "Filing Metal"
+      },
+      "category": "city",
+      "tags": [
+        "filing",
+        "metal",
+        "напильник по металлу"
+      ],
+      "duration": 9.5,
+      "size": 132443,
+      "format": "ogg",
+      "loop": false,
+      "file": "field-filing-metal.ogg",
+      "license": "CC0-1.0",
+      "source": {
+        "site": "Freesound",
+        "author": "johnnydekk",
+        "title": "Metal Filing",
+        "url": "https://freesound.org/s/414030/"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
- "release": "library-v3",
+ "release": "library-v4",
  "files": [
   {
    "file": "tavern-ambience.ogg",
@@ -882,6 +882,324 @@
    "url": "https://cdn.freesound.org/previews/613/613849_9250976-hq.ogg",
    "size": 70048,
    "sha256": "9b190a5b4cc09f3dafae38be9c3afac034b45987335fb9f1bd2f7f1d952c4dfb"
+  },
+  {
+   "file": "bottle-uncork.ogg",
+   "url": "https://cdn.freesound.org/previews/206/206152_2568776-hq.ogg",
+   "size": 9095,
+   "sha256": "b0e00e65329b4d35accf8df06358cc542d6639266aa2f969be2c9a8d929f2c69"
+  },
+  {
+   "file": "blade-sharpen.ogg",
+   "url": "https://cdn.freesound.org/previews/236/236008_985466-hq.ogg",
+   "size": 532728,
+   "sha256": "6f8695d7d7265e7867960cb75de33d49913e4733db13a99cab38c87ec58c81c0"
+  },
+  {
+   "file": "knife-grindstone.ogg",
+   "url": "https://cdn.freesound.org/previews/423/423443_6253486-hq.ogg",
+   "size": 325125,
+   "sha256": "e3033f405bb7627738229dee0c4964592e633045d34814cd14f326ddedc0505d"
+  },
+  {
+   "file": "rope-tension.ogg",
+   "url": "https://cdn.freesound.org/previews/664/664929_14100561-hq.ogg",
+   "size": 59911,
+   "sha256": "7e8f4aef2084e193c4855d2f629fd9f1fa8870e42b66e138e2367756a0325032"
+  },
+  {
+   "file": "flint-steel.ogg",
+   "url": "https://cdn.freesound.org/previews/764/764961_15688695-hq.ogg",
+   "size": 127193,
+   "sha256": "a76049ec4b2ae21475ef96bed5f33edb0a8d18377c38f9ff3e145deabbc97193"
+  },
+  {
+   "file": "shovel-dig.ogg",
+   "url": "https://cdn.freesound.org/previews/487/487077_2524442-hq.ogg",
+   "size": 351422,
+   "sha256": "1d87e47178e532afcedf0578d59c95d8bac6b0b9d8f7b57a99d021ef4cc44217"
+  },
+  {
+   "file": "horse-snort.ogg",
+   "url": "https://cdn.freesound.org/previews/538/538697_11519060-hq.ogg",
+   "size": 242554,
+   "sha256": "09ff8a6edf396f061a70b049286bd5bbffb6e4640e8168cb0f8baf2afd8f8d24"
+  },
+  {
+   "file": "forest-ravens.ogg",
+   "url": "https://cdn.freesound.org/previews/835/835730_2520418-hq.ogg",
+   "size": 5191023,
+   "sha256": "fced92c0ba4326073e46c9f8fd8ccb01ec35b2b0c032781032e67d0590b6bde1"
+  },
+  {
+   "file": "field-woodpecker.ogg",
+   "url": "https://cdn.freesound.org/previews/347/347047_6120286-hq.ogg",
+   "size": 838430,
+   "sha256": "49039656c0d2ddb63826821b7d063f565f3f625717b1734fe0dc916480cfd117"
+  },
+  {
+   "file": "field-cicadas.ogg",
+   "url": "https://cdn.freesound.org/previews/320/320113_3713344-hq.ogg",
+   "size": 759999,
+   "sha256": "e48cade3e780b7bc0650e3e842acead5b57b469ccb6bc319400f61102086e480"
+  },
+  {
+   "file": "field-brook.ogg",
+   "url": "https://cdn.freesound.org/previews/583/583754_4614795-hq.ogg",
+   "size": 1120462,
+   "sha256": "3bbad53002f1ac5e676c7fdef0f52eaf03839305a6bc90f90e8c7b95b0c3ddd0"
+  },
+  {
+   "file": "field-donkey.ogg",
+   "url": "https://cdn.freesound.org/previews/246/246406_1661766-hq.ogg",
+   "size": 1815941,
+   "sha256": "cd32486a52d10420d4a095ccc7507abdd7df09ac0564098fef3f8ca6281063b1"
+  },
+  {
+   "file": "field-rooster.ogg",
+   "url": "https://cdn.freesound.org/previews/435/435508_1196020-hq.ogg",
+   "size": 59033,
+   "sha256": "cccdf040abb2a7fc06da30f9221d23350316fd42e49929e9372e54e74dfdda2b"
+  },
+  {
+   "file": "field-goose.ogg",
+   "url": "https://cdn.freesound.org/previews/137/137764_2508191-hq.ogg",
+   "size": 350270,
+   "sha256": "85b8ba1cb5a0b558dfd093b600a50bec73735a41fe741ebe877d0f08db317a46"
+  },
+  {
+   "file": "field-geese.ogg",
+   "url": "https://cdn.freesound.org/previews/204/204337_93137-hq.ogg",
+   "size": 291725,
+   "sha256": "70027493a0ad4a6fcc8e2b952daf7a3d95dedb3a2d0165469019f97fa06423b2"
+  },
+  {
+   "file": "field-sheep.ogg",
+   "url": "https://cdn.freesound.org/previews/138/138424_1661766-hq.ogg",
+   "size": 2990051,
+   "sha256": "d70d20314e26784d511acabe269914361d5af26a70c0a102478beb8e7526978b"
+  },
+  {
+   "file": "field-goat.ogg",
+   "url": "https://cdn.freesound.org/previews/66/66762_706955-hq.ogg",
+   "size": 1002251,
+   "sha256": "7d83230d3d1f4c3d4a156f3c10ad7976c516906fa8321acb90b1f34d1900b582"
+  },
+  {
+   "file": "field-pig-grunt.ogg",
+   "url": "https://cdn.freesound.org/previews/158/158746_1661766-hq.ogg",
+   "size": 2054710,
+   "sha256": "a044f96869e594309b90e302c8fe2521bb1010cb869362d96f41a0a30ff16669"
+  },
+  {
+   "file": "field-cow-moo.ogg",
+   "url": "https://cdn.freesound.org/previews/163/163727_1661766-hq.ogg",
+   "size": 329105,
+   "sha256": "96e89060031948998f955a2403931d326b9bd4591f3da5962d3fb9bfd4e172f6"
+  },
+  {
+   "file": "field-dog-growl.ogg",
+   "url": "https://cdn.freesound.org/previews/404/404920_5965692-hq.ogg",
+   "size": 1028881,
+   "sha256": "53951f5937790ef5c8fff9268e10c8786670ee78997504e81dd894bdc0053b4a"
+  },
+  {
+   "file": "field-dog-bark.ogg",
+   "url": "https://cdn.freesound.org/previews/180/180977_3370987-hq.ogg",
+   "size": 721073,
+   "sha256": "e647b744d8114f4758f5a261803f01aed19ca8687361af4a523d96eca3e41f67"
+  },
+  {
+   "file": "field-cat-hiss.ogg",
+   "url": "https://cdn.freesound.org/previews/146/146963_2580450-hq.ogg",
+   "size": 22855,
+   "sha256": "6ce202df1b7819c4198bac37fd4b8ec0d64de5bb2cabf991d4d21430deecfb68"
+  },
+  {
+   "file": "field-cat-purr.ogg",
+   "url": "https://cdn.freesound.org/previews/234/234333_3227813-hq.ogg",
+   "size": 357015,
+   "sha256": "ac10d8f993b13ab838df6d56e85f58de10c333607046cac392b3abfc02ebb1fd"
+  },
+  {
+   "file": "field-bee-swarm.ogg",
+   "url": "https://cdn.freesound.org/previews/553/553728_4905159-hq.ogg",
+   "size": 1138640,
+   "sha256": "3351b5345de03de3cc8e3d9387b157331ead323bcdefb8b4b54756b7fc0dcf31"
+  },
+  {
+   "file": "field-mosquito.ogg",
+   "url": "https://cdn.freesound.org/previews/662/662970_4287394-hq.ogg",
+   "size": 162639,
+   "sha256": "2d113dcf2255b34972be847dc06c800d29f38d2457c844c8bcb3196eedad66bd"
+  },
+  {
+   "file": "field-nightingale.ogg",
+   "url": "https://cdn.freesound.org/previews/521/521035_3657069-hq.ogg",
+   "size": 2804660,
+   "sha256": "0b25dc66ccec9fb486ef968eb41c838834ee871e97cefc632e0e09aab6b8263b"
+  },
+  {
+   "file": "field-cuckoo.ogg",
+   "url": "https://cdn.freesound.org/previews/462/462930_1779874-hq.ogg",
+   "size": 282249,
+   "sha256": "a5a34e757cb35c68729077b34fd60eaae9c2b0d8a173c836b5f7221288747be7"
+  },
+  {
+   "file": "field-loon.ogg",
+   "url": "https://cdn.freesound.org/previews/39/39339_92534-hq.ogg",
+   "size": 2935552,
+   "sha256": "75327c6b7e02b7ff27d3c8e5a7c892e8f0d90de4bd81dd23086117533341d361"
+  },
+  {
+   "file": "field-wood-pigeon.ogg",
+   "url": "https://cdn.freesound.org/previews/607/607224_887696-hq.ogg",
+   "size": 56341,
+   "sha256": "3fe188a2ea9410099131df4a6f9a9dbe3055051b61e62a848ce28fa2349f0b28"
+  },
+  {
+   "file": "field-toad.ogg",
+   "url": "https://cdn.freesound.org/previews/135/135561_1661766-hq.ogg",
+   "size": 1805813,
+   "sha256": "a7d9c0878444e43fc2da40e1e72aff9550102eb821f4e41cadab74f6cf6f26f0"
+  },
+  {
+   "file": "field-bullfrog.ogg",
+   "url": "https://cdn.freesound.org/previews/825/825646_5820974-hq.ogg",
+   "size": 3280188,
+   "sha256": "c25ad8811f5d726386a7ab650624b700c7d57bb3debdf852b1d403e13b64f24b"
+  },
+  {
+   "file": "field-ice-cracking.ogg",
+   "url": "https://cdn.freesound.org/previews/452/452645_612689-hq.ogg",
+   "size": 155399,
+   "sha256": "91d16cb3772df1fc09ae09a45534e5211558b377a89c49765cd95c6112548f6d"
+  },
+  {
+   "file": "field-avalanche.ogg",
+   "url": "https://cdn.freesound.org/previews/457/457528_9159316-hq.ogg",
+   "size": 75235,
+   "sha256": "5496dfabd18f5deef80944ba2c80307d6be18ae9bcc716aa427676e3531230f6"
+  },
+  {
+   "file": "field-geyser.ogg",
+   "url": "https://cdn.freesound.org/previews/441/441152_7522579-hq.ogg",
+   "size": 2236113,
+   "sha256": "75b89b904570d49fa43430082d9874bc80491575376f1015a77c2b9249e081b5"
+  },
+  {
+   "file": "field-whale-song.ogg",
+   "url": "https://cdn.freesound.org/previews/684/684188_10105416-hq.ogg",
+   "size": 197265,
+   "sha256": "8d5d955328af16929a156c6759c34cc7932eeed823d669da85500170defe7e6e"
+  },
+  {
+   "file": "field-pebbles-waves.ogg",
+   "url": "https://cdn.freesound.org/previews/162/162226_1328296-hq.ogg",
+   "size": 824373,
+   "sha256": "bb06a72939468ba8c86f2c7c9d884b972127e92565d1767d1dc2b5ab02b45cd7"
+  },
+  {
+   "file": "field-anchor-chain.ogg",
+   "url": "https://cdn.freesound.org/previews/347/347837_6207707-hq.ogg",
+   "size": 660950,
+   "sha256": "8e79233f105b6443b80600fb8e62d2380dc7d9662c732c334d8f8819f7ea7371"
+  },
+  {
+   "file": "field-footsteps-mud.ogg",
+   "url": "https://cdn.freesound.org/previews/231/231317_3261532-hq.ogg",
+   "size": 221682,
+   "sha256": "cf13b21e2a0215de39ab05a54f09cf1d177d35857a90474dc8a0a2cee8e80e09"
+  },
+  {
+   "file": "field-footsteps-sand.ogg",
+   "url": "https://cdn.freesound.org/previews/383/383490_667113-hq.ogg",
+   "size": 1711951,
+   "sha256": "f5a3120952e96d19e723937570dc010529b20b65c828a9c0e900f86e13dbf176"
+  },
+  {
+   "file": "field-footsteps-leaves.ogg",
+   "url": "https://cdn.freesound.org/previews/218/218305_1480854-hq.ogg",
+   "size": 1360197,
+   "sha256": "6235f89e5145741e40b7de98d6f24cdb512bea3f824e9f633f2015c1e8e1146c"
+  },
+  {
+   "file": "field-footsteps-water.ogg",
+   "url": "https://cdn.freesound.org/previews/369/369580_4800355-hq.ogg",
+   "size": 405507,
+   "sha256": "0f13108530f0d472b6dab3d445b1b585fcd749709acfc6e5149297cf74fe6e40"
+  },
+  {
+   "file": "field-horse-walking.ogg",
+   "url": "https://cdn.freesound.org/previews/437/437108_2524442-hq.ogg",
+   "size": 805419,
+   "sha256": "be5dae7007e316383ec53bda7e566742e8ca93b919c11ab879e8a1cd728e3ee8"
+  },
+  {
+   "file": "field-glass-breaking.ogg",
+   "url": "https://cdn.freesound.org/previews/159/159197_1589309-hq.ogg",
+   "size": 225425,
+   "sha256": "ff924c7b1047b69fe817633891b5ff0b5439fa4c422e07355c8b85cf0b87f11e"
+  },
+  {
+   "file": "field-cutlery.ogg",
+   "url": "https://cdn.freesound.org/previews/237/237379_1502374-hq.ogg",
+   "size": 26582,
+   "sha256": "ecf54e8ebe64896e38e328211715164157417b12c9ac391e54d327ec37701ee7"
+  },
+  {
+   "file": "field-bread-slicing.ogg",
+   "url": "https://cdn.freesound.org/previews/142/142299_2557292-hq.ogg",
+   "size": 38836,
+   "sha256": "a3ddd271cd4e131ac8848cdb556bb32ca7531fd8ffb41c64c8beeb0bf28b0a57"
+  },
+  {
+   "file": "field-frying-pan.ogg",
+   "url": "https://cdn.freesound.org/previews/383/383678_7146007-hq.ogg",
+   "size": 863583,
+   "sha256": "254e5daf358ac0202ae90e8387cdb39f100ec8ff3e7f7081e4c0ee5ee0b458e8"
+  },
+  {
+   "file": "crossbow-shot.ogg",
+   "url": "https://cdn.freesound.org/previews/163/163453_2263027-hq.ogg",
+   "size": 8626,
+   "sha256": "ce4b1a6b9aeb9b347039a77658ba3bf1ef4a47aa3974885b3104306a493c5c80"
+  },
+  {
+   "file": "field-kettle-boiling.ogg",
+   "url": "https://cdn.freesound.org/previews/141/141677_906700-hq.ogg",
+   "size": 2850132,
+   "sha256": "3bcb5c03ba2f20b9603fe9607ec818294cf957e91d066efca97e78fbb2d01f1b"
+  },
+  {
+   "file": "field-spinning-wheel.ogg",
+   "url": "https://cdn.freesound.org/previews/386/386712_5798760-hq.ogg",
+   "size": 74051,
+   "sha256": "35d0482e352257eaf1b8d0a478c23f696187993aed851241c8be2140414c9f21"
+  },
+  {
+   "file": "whip-crack.ogg",
+   "url": "https://cdn.freesound.org/previews/841/841380_15956618-hq.ogg",
+   "size": 33886,
+   "sha256": "d8e077b9a25e76610f2c869dbcbfb06635d93f0c33788833814bdb34504d7dd8"
+  },
+  {
+   "file": "field-scissors.ogg",
+   "url": "https://cdn.freesound.org/previews/795/795697_16968183-hq.ogg",
+   "size": 71681,
+   "sha256": "cc5885b5351eef28efdc9a45eaba705ac0266ab8457696376b278dd3ac6fe76a"
+  },
+  {
+   "file": "field-broom-sweeping.ogg",
+   "url": "https://cdn.freesound.org/previews/138/138067_1839281-hq.ogg",
+   "size": 417151,
+   "sha256": "e0ed5f15113ab43ee19dcf68b0300615ac9e9037fd47fd68847fccdb5ead4af5"
+  },
+  {
+   "file": "field-filing-metal.ogg",
+   "url": "https://cdn.freesound.org/previews/414/414030_5790048-hq.ogg",
+   "size": 132443,
+   "sha256": "4b5ef8673dcdd47aedcf1be0e00eadc533f75e367e635e1e3453c11a9b3ae7ad"
   }
  ]
 }

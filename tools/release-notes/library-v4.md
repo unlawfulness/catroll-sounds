@@ -1,0 +1,113 @@
+# Catroll Sounds library-v4
+
+53 новых звука CC0, всего 200.
+
+- Хлопок винной пробки
+- Заточка клинка
+- Нож на точильном камне
+- Скрип натянутой верёвки
+- Высекание искры огнивом
+- Лопата в земле
+- Фырканье лошади
+- Вороны в лесу: крики и взмахи крыльев
+- Дятел
+- Цикады
+- Ручей
+- Осёл
+- Петух
+- Гусь
+- Гуси
+- Овцы
+- Коза
+- Хрюканье свиньи
+- Мычание коровы
+- Рычание собаки
+- Лай собаки
+- Шипение кошки
+- Мурлыканье кошки
+- Пчелиный рой
+- Комар
+- Соловей
+- Часы с кукушкой: полдень
+- Гагара
+- Лесной голубь
+- Жаба
+- Лягушка-бык
+- Треск льда
+- Лавина
+- Гейзер
+- Пение китов
+- Волны на гальке
+- Якорная цепь
+- Шаги по грязи
+- Шаги по песку
+- Шаги по листьям
+- Шаги по воде
+- Лошадь идёт шагом
+- Разбитое стекло
+- Столовые приборы
+- Нарезание хлеба
+- Сковорода
+- Выстрел арбалета
+- Кипящий чайник
+- Прялка
+- Щелчок кнута
+- Ножницы
+- Подметание метлой
+- Напильник по металлу
+
+53 new CC0 sounds, 200 recordings in total.
+
+- Wine cork pop
+- Sharpening a blade
+- Knife on a grindstone
+- Strained rope creak
+- Striking flint and steel
+- Digging with a shovel
+- Horse snort
+- Forest ravens calling and beating their wings
+- Woodpecker
+- Cicadas
+- Brook
+- Donkey
+- Rooster
+- Goose
+- Geese
+- Sheep
+- Goat
+- Pig Grunt
+- Cow Moo
+- Dog Growl
+- Dog Bark
+- Cat Hiss
+- Cat Purr
+- Bee Swarm
+- Mosquito
+- Nightingale
+- Cuckoo clock striking twelve
+- Loon
+- Wood Pigeon
+- Toad
+- Bullfrog
+- Ice Cracking
+- Avalanche
+- Geyser
+- Whale Song
+- Pebbles Waves
+- Anchor Chain
+- Footsteps Mud
+- Footsteps Sand
+- Footsteps Leaves
+- Footsteps Water
+- Horse Walking
+- Glass Breaking
+- Cutlery
+- Bread Slicing
+- Frying Pan
+- Crossbow shot
+- Kettle Boiling
+- Spinning Wheel
+- Whip crack
+- Scissors
+- Broom Sweeping
+- Filing Metal

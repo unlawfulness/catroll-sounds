@@ -159,3 +159,56 @@ Sounds are Freesound HQ previews (Ogg Vorbis); music files are the originals fro
 | `wind-in-trees` | Ветер в листве / Wind in the trees | kvgarlic | [WinterWindThroughDryOakLeavesPlusGeeseDec21st201541hz.WAV](https://freesound.org/s/331510/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | `footsteps-forest` | Шаги по лесу / Walking in a forest | rempen | [Forest dry leaves walk. .wav](https://freesound.org/s/274833/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | `footsteps-snow` | Шаги по снегу / Walking on snow | Nox_Sound | [Footsteps_Mountain_Boots_Snow_Walk_Mono.wav](https://freesound.org/s/613849/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `bottle-uncork` | Хлопок винной пробки / Wine cork pop | ahill86 | [bottlepop44.wav](https://freesound.org/s/206152/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `blade-sharpen` | Заточка клинка / Sharpening a blade | Sclolex | [SharpeningBlade.wav](https://freesound.org/s/236008/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `knife-grindstone` | Нож на точильном камне / Knife on a grindstone | florianreichelt | [Sound of someone sharping his metal knife on a grindstone](https://freesound.org/s/423443/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `rope-tension` | Скрип натянутой верёвки / Strained rope creak | vestibule-door | [rope leathery creaking.wav](https://freesound.org/s/664929/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `flint-steel` | Высекание искры огнивом / Striking flint and steel | Christian.Combrinck | [Flint and steel fire starter](https://freesound.org/s/764961/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `shovel-dig` | Лопата в земле / Digging with a shovel | craigsmith | [R08-57-Digging with Shovel.wav](https://freesound.org/s/487077/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `horse-snort` | Фырканье лошади / Horse snort | bruno.auzet | [horse snort.wav](https://freesound.org/s/538697/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `forest-ravens` | Вороны в лесу: крики и взмахи крыльев / Forest ravens calling and beating their wings | CVLTIV8R | [Ravens in Redwoods Forest, Caws, Wings Batting, Spectral Isolated](https://freesound.org/s/835730/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-woodpecker` | Дятел / Woodpecker | johnaudiotech | [Woodpecker](https://freesound.org/s/347047/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-cicadas` | Цикады / Cicadas | laughatlantic | [cicadas.wav](https://freesound.org/s/320113/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-brook` | Ручей / Brook | Bia12 | [brook.mp3](https://freesound.org/s/583754/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-donkey` | Осёл / Donkey | felix.blume | [Donkeys braying at the market of Assem Souk](https://freesound.org/s/246406/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-rooster` | Петух / Rooster | BenjaminNelan | [Rooster Crow 1](https://freesound.org/s/435508/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-goose` | Гусь / Goose | helupema | [goose.aiff](https://freesound.org/s/137764/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-geese` | Гуси / Geese | wjoojoo | [cibolo_geese09.wav](https://freesound.org/s/204337/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-sheep` | Овцы / Sheep | felix.blume | [Sheep in a field on the top of a mountain in Bask Country](https://freesound.org/s/138424/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-goat` | Коза / Goat | Bidone | [Goat.mp3](https://freesound.org/s/66762/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-pig-grunt` | Хрюканье свиньи / Pig Grunt | felix.blume | [A pig grunting, grumbling and falling asleep (France, Limousin)](https://freesound.org/s/158746/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-cow-moo` | Мычание коровы / Cow Moo | felix.blume | [Cow mooing in south of France (Limousin)](https://freesound.org/s/163727/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-dog-growl` | Рычание собаки / Dog Growl | coldvet | [Dog Growl - Beast / Creature](https://freesound.org/s/404920/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-dog-bark` | Лай собаки / Dog Bark | SuperStudioBR | [Barking Dog](https://freesound.org/s/180977/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-cat-hiss` | Шипение кошки / Cat Hiss | Zabuhailo | [catHisses1.wav](https://freesound.org/s/146963/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-cat-purr` | Мурлыканье кошки / Cat Purr | mcroce | [Cat Meow and Purr](https://freesound.org/s/234333/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-bee-swarm` | Пчелиный рой / Bee Swarm | Globofonia | [Swarm of bees](https://freesound.org/s/553728/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-mosquito` | Комар / Mosquito | IanFSA | [Mosquito 1 Edit.wav](https://freesound.org/s/662970/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-nightingale` | Соловей / Nightingale | smand | [Nightingale Song](https://freesound.org/s/521035/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-cuckoo` | Часы с кукушкой: полдень / Cuckoo clock striking twelve | DiArchangeli | [Cuckoo Clock Chimes 12.aif](https://freesound.org/s/462930/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-loon` | Гагара / Loon | stackpool | [loonsnippets.ogg](https://freesound.org/s/39339/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-wood-pigeon` | Лесной голубь / Wood Pigeon | D4XX | [Wood Pigeon Call](https://freesound.org/s/607224/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-toad` | Жаба / Toad | felix.blume | [Toads and frogs are singing at night in the pond, in the center of the small village of Diafarabe, on the Niger river. (Africa, Mali)](https://freesound.org/s/135561/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-bullfrog` | Лягушка-бык / Bullfrog | ChristmasKrumble666 | [Bullfrog Ballpit.wav](https://freesound.org/s/825646/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-ice-cracking` | Треск льда / Ice Cracking | kyles | [ice grinding cracking freezing designed.wav](https://freesound.org/s/452645/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-avalanche` | Лавина / Avalanche | Breviceps | [Avalanche Hit](https://freesound.org/s/457528/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-geyser` | Гейзер / Geyser | keng-wai-chane-chick-te | [GEYSER_SOLDEMANANA_BOLIVIA.wav](https://freesound.org/s/441152/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-whale-song` | Пение китов / Whale Song | muri_kuri | [whale song](https://freesound.org/s/684188/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-pebbles-waves` | Волны на гальке / Pebbles Waves | surrey_film | [Waves on pebbles CU with Ciccadas BG](https://freesound.org/s/162226/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-anchor-chain` | Якорная цепь / Anchor Chain | fennelliott | [anchor and chain.wav](https://freesound.org/s/347837/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-footsteps-mud` | Шаги по грязи / Footsteps Mud | jonccox | [Footsteps-Mud&Grass](https://freesound.org/s/231317/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-footsteps-sand` | Шаги по песку / Footsteps Sand | Daphne_in_Wonderland | [Footsteps on sand.wav](https://freesound.org/s/383490/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-footsteps-leaves` | Шаги по листьям / Footsteps Leaves | SpliceSound | [01-20 Footsteps, sneakers on dry leaves.wav](https://freesound.org/s/218305/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-footsteps-water` | Шаги по воде / Footsteps Water | Adielees9 | [Slow Water Footsteps](https://freesound.org/s/369580/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-horse-walking` | Лошадь идёт шагом / Horse Walking | craigsmith | [G38-13-Group of Horses Walking.wav](https://freesound.org/s/437108/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-glass-breaking` | Разбитое стекло / Glass Breaking | justBrando | [Glass breaking.mp3](https://freesound.org/s/159197/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-cutlery` | Столовые приборы / Cutlery | squareal | [Cutlery Drawer Closing 01](https://freesound.org/s/237379/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-bread-slicing` | Нарезание хлеба / Bread Slicing | fryzu82 | [bread slicing.wav](https://freesound.org/s/142299/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-frying-pan` | Сковорода / Frying Pan | deleted_user_7146007 | [Food Cooking in Frying Pan](https://freesound.org/s/383678/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `crossbow-shot` | Выстрел арбалета / Crossbow shot | LeMudCrab | [Crossbow Shot](https://freesound.org/s/163453/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-kettle-boiling` | Кипящий чайник / Kettle Boiling | DJ Burnham | [Boiling a kettle.aif](https://freesound.org/s/141677/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-spinning-wheel` | Прялка / Spinning Wheel | tommy_mooney | [spinning wheel.wav](https://freesound.org/s/386712/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `whip-crack` | Щелчок кнута / Whip crack | modusmogulus | [Whip Sound Effect](https://freesound.org/s/841380/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-scissors` | Ножницы / Scissors | randbsoundbites | [Scissors 2](https://freesound.org/s/795697/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-broom-sweeping` | Подметание метлой / Broom Sweeping | daboy291 | [sweeping_tile_floor_with_broom.wav](https://freesound.org/s/138067/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `field-filing-metal` | Напильник по металлу / Filing Metal | johnnydekk | [Metal Filing](https://freesound.org/s/414030/) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
